@@ -1,0 +1,4482 @@
+[
+  {
+    "id": "G001",
+    "section": "Grammar",
+    "prompt": "Choose the correct preposition:\\n\\nShe is afraid ___ her work.",
+    "options": [
+      "from",
+      "for",
+      "of",
+      "to"
+    ],
+    "correctIndex": 2,
+    "difficulty": 2,
+    "explanation": "التعبير الصحيح: afraid of."
+  },
+  {
+    "id": "G002",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nIf they ___ earlier, they would have caught the train.",
+    "options": [
+      "left",
+      "have left",
+      "had left",
+      "leave"
+    ],
+    "correctIndex": 2,
+    "difficulty": 4,
+    "explanation": "الشرط غير الحقيقي في الماضي: If + had + p.p ثم would have + p.p."
+  },
+  {
+    "id": "G003",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nMany mistakes ___ in the first draft.",
+    "options": [
+      "found",
+      "were found",
+      "have find",
+      "are finding"
+    ],
+    "correctIndex": 1,
+    "difficulty": 3,
+    "explanation": "مع الجمع نستخدم were + past participle."
+  },
+  {
+    "id": "G004",
+    "section": "Grammar",
+    "prompt": "Choose the best option:\\n\\nThis is the ___ solution for our problem.",
+    "options": [
+      "better",
+      "good",
+      "more good",
+      "best"
+    ],
+    "correctIndex": 3,
+    "difficulty": 2,
+    "explanation": "superlative: best."
+  },
+  {
+    "id": "G005",
+    "section": "Grammar",
+    "prompt": "Choose the correct article:\\n\\nI have ___ idea that might help.",
+    "options": [
+      "the",
+      "an",
+      "a",
+      "No article"
+    ],
+    "correctIndex": 1,
+    "difficulty": 2,
+    "explanation": "an قبل idea (صوت علة)."
+  },
+  {
+    "id": "G006",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nEach of the players brought ___ own equipment.",
+    "options": [
+      "their",
+      "his or her",
+      "they",
+      "them"
+    ],
+    "correctIndex": 1,
+    "difficulty": 3,
+    "explanation": "Each مفرد؛ الأفضل his or her (أو their كاستخدام حديث)."
+  },
+  {
+    "id": "G007",
+    "section": "Grammar",
+    "prompt": "Complete the sentence with the best tense:\\n\\nBy the time we arrived, the meeting ___ already ___ .",
+    "options": [
+      "has started",
+      "is starting",
+      "had started",
+      "was starting"
+    ],
+    "correctIndex": 2,
+    "difficulty": 4,
+    "explanation": "past perfect مع By the time."
+  },
+  {
+    "id": "G008",
+    "section": "Grammar",
+    "prompt": "Choose the closest meaning to the word in bold:\\n\\nWe need to **benefit** our study time this week.",
+    "options": [
+      "mistake",
+      "problem",
+      "advantage",
+      "delay"
+    ],
+    "correctIndex": 2,
+    "difficulty": 2,
+    "explanation": "أقرب معنى لـ benefit هو: advantage."
+  },
+  {
+    "id": "G009",
+    "section": "Grammar",
+    "prompt": "Choose the correct preposition:\\n\\nShe is interested ___ her work.",
+    "options": [
+      "in",
+      "for",
+      "at",
+      "on"
+    ],
+    "correctIndex": 0,
+    "difficulty": 2,
+    "explanation": "التعبير الصحيح: interested in."
+  },
+  {
+    "id": "G010",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nIf they ___ earlier, they would have caught the train.",
+    "options": [
+      "have left",
+      "had left",
+      "leave",
+      "left"
+    ],
+    "correctIndex": 1,
+    "difficulty": 4,
+    "explanation": "الشرط غير الحقيقي في الماضي: If + had + p.p ثم would have + p.p."
+  },
+  {
+    "id": "G011",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nThe new policy ___ next month.",
+    "options": [
+      "will announce",
+      "announced",
+      "is announced",
+      "will be announced"
+    ],
+    "correctIndex": 3,
+    "difficulty": 3,
+    "explanation": "المستقبل المبني للمجهول: will be + past participle."
+  },
+  {
+    "id": "G012",
+    "section": "Grammar",
+    "prompt": "Choose the best option:\\n\\nThis method is ___ than the old one.",
+    "options": [
+      "effective",
+      "as effective",
+      "most effective",
+      "more effective"
+    ],
+    "correctIndex": 3,
+    "difficulty": 2,
+    "explanation": "عند المقارنة نستخدم more + adjective الطويل."
+  },
+  {
+    "id": "G013",
+    "section": "Grammar",
+    "prompt": "Choose the correct article:\\n\\n___ honest person is trusted by everyone.",
+    "options": [
+      "An",
+      "A",
+      "No article",
+      "The"
+    ],
+    "correctIndex": 0,
+    "difficulty": 2,
+    "explanation": "An قبل صوت حرف علة."
+  },
+  {
+    "id": "G014",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nThe book that I bought yesterday is ___.",
+    "options": [
+      "I",
+      "my",
+      "me",
+      "mine"
+    ],
+    "correctIndex": 3,
+    "difficulty": 3,
+    "explanation": "ضمير ملكية مستقل: mine."
+  },
+  {
+    "id": "G015",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nShe ___ in Riyadh since 2020.",
+    "options": [
+      "is living",
+      "lived",
+      "has lived",
+      "had lived"
+    ],
+    "correctIndex": 2,
+    "difficulty": 3,
+    "explanation": "since + مدة حتى الآن => present perfect."
+  },
+  {
+    "id": "G016",
+    "section": "Grammar",
+    "prompt": "Choose the closest meaning to the word in bold:\\n\\nWe need to **reduce** our study time this week.",
+    "options": [
+      "break",
+      "add",
+      "lower",
+      "borrow"
+    ],
+    "correctIndex": 2,
+    "difficulty": 2,
+    "explanation": "أقرب معنى لـ reduce هو: lower."
+  },
+  {
+    "id": "G017",
+    "section": "Grammar",
+    "prompt": "Choose the correct preposition:\\n\\nShe is responsible ___ her work.",
+    "options": [
+      "to",
+      "with",
+      "for",
+      "at"
+    ],
+    "correctIndex": 2,
+    "difficulty": 2,
+    "explanation": "التعبير الصحيح: responsible for."
+  },
+  {
+    "id": "G018",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nIf I ___ enough time, I would travel more.",
+    "options": [
+      "has",
+      "have",
+      "had",
+      "will have"
+    ],
+    "correctIndex": 2,
+    "difficulty": 4,
+    "explanation": "الشرط غير الحقيقي في الحاضر يستخدم (If + past) مع (would)."
+  },
+  {
+    "id": "G019",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nThe new policy ___ next month.",
+    "options": [
+      "will be announced",
+      "will announce",
+      "is announced",
+      "announced"
+    ],
+    "correctIndex": 0,
+    "difficulty": 3,
+    "explanation": "المستقبل المبني للمجهول: will be + past participle."
+  },
+  {
+    "id": "G020",
+    "section": "Grammar",
+    "prompt": "Choose the best option:\\n\\nHe runs ___ than his brother.",
+    "options": [
+      "fastest",
+      "fast",
+      "faster",
+      "more fast"
+    ],
+    "correctIndex": 2,
+    "difficulty": 2,
+    "explanation": "صفات قصيرة: adjective + -er."
+  },
+  {
+    "id": "G021",
+    "section": "Grammar",
+    "prompt": "Choose the correct article:\\n\\n___ honest person is trusted by everyone.",
+    "options": [
+      "An",
+      "No article",
+      "A",
+      "The"
+    ],
+    "correctIndex": 0,
+    "difficulty": 2,
+    "explanation": "An قبل صوت حرف علة."
+  },
+  {
+    "id": "G022",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nThe book that I bought yesterday is ___.",
+    "options": [
+      "my",
+      "me",
+      "I",
+      "mine"
+    ],
+    "correctIndex": 3,
+    "difficulty": 3,
+    "explanation": "ضمير ملكية مستقل: mine."
+  },
+  {
+    "id": "G023",
+    "section": "Grammar",
+    "prompt": "Complete the sentence with the best tense:\\n\\nBy the time we arrived, the meeting ___ already ___ .",
+    "options": [
+      "had started",
+      "was starting",
+      "has started",
+      "is starting"
+    ],
+    "correctIndex": 0,
+    "difficulty": 4,
+    "explanation": "past perfect مع By the time."
+  },
+  {
+    "id": "G024",
+    "section": "Grammar",
+    "prompt": "Choose the closest meaning to the word in bold:\\n\\nWe need to **rapid** our study time this week.",
+    "options": [
+      "weak",
+      "slow",
+      "empty",
+      "fast"
+    ],
+    "correctIndex": 3,
+    "difficulty": 2,
+    "explanation": "أقرب معنى لـ rapid هو: fast."
+  },
+  {
+    "id": "G025",
+    "section": "Grammar",
+    "prompt": "Choose the correct preposition:\\n\\nShe is similar ___ her work.",
+    "options": [
+      "in",
+      "with",
+      "for",
+      "to"
+    ],
+    "correctIndex": 3,
+    "difficulty": 2,
+    "explanation": "التعبير الصحيح: similar to."
+  },
+  {
+    "id": "G026",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nIf she studies hard, she ___ the exam.",
+    "options": [
+      "has passed",
+      "would pass",
+      "passed",
+      "will pass"
+    ],
+    "correctIndex": 3,
+    "difficulty": 4,
+    "explanation": "الشرط الحقيقي في الحاضر: If + present ثم will + verb."
+  },
+  {
+    "id": "G027",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nMany mistakes ___ in the first draft.",
+    "options": [
+      "found",
+      "have find",
+      "are finding",
+      "were found"
+    ],
+    "correctIndex": 3,
+    "difficulty": 3,
+    "explanation": "مع الجمع نستخدم were + past participle."
+  },
+  {
+    "id": "G028",
+    "section": "Grammar",
+    "prompt": "Choose the best option:\\n\\nThis is the ___ solution for our problem.",
+    "options": [
+      "best",
+      "more good",
+      "good",
+      "better"
+    ],
+    "correctIndex": 0,
+    "difficulty": 2,
+    "explanation": "superlative: best."
+  },
+  {
+    "id": "G029",
+    "section": "Grammar",
+    "prompt": "Choose the correct article:\\n\\n___ honest person is trusted by everyone.",
+    "options": [
+      "An",
+      "The",
+      "No article",
+      "A"
+    ],
+    "correctIndex": 0,
+    "difficulty": 2,
+    "explanation": "An قبل صوت حرف علة."
+  },
+  {
+    "id": "G030",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nThe book that I bought yesterday is ___.",
+    "options": [
+      "my",
+      "me",
+      "mine",
+      "I"
+    ],
+    "correctIndex": 2,
+    "difficulty": 3,
+    "explanation": "ضمير ملكية مستقل: mine."
+  },
+  {
+    "id": "G031",
+    "section": "Grammar",
+    "prompt": "Complete the sentence with the best tense:\\n\\nBy the time we arrived, the meeting ___ already ___ .",
+    "options": [
+      "had started",
+      "was starting",
+      "has started",
+      "is starting"
+    ],
+    "correctIndex": 0,
+    "difficulty": 4,
+    "explanation": "past perfect مع By the time."
+  },
+  {
+    "id": "G032",
+    "section": "Grammar",
+    "prompt": "Choose the closest meaning to the word in bold:\\n\\nWe need to **improve** our study time this week.",
+    "options": [
+      "stop",
+      "harm",
+      "enhance",
+      "lose"
+    ],
+    "correctIndex": 2,
+    "difficulty": 2,
+    "explanation": "أقرب معنى لـ improve هو: enhance."
+  },
+  {
+    "id": "G033",
+    "section": "Grammar",
+    "prompt": "Choose the correct preposition:\\n\\nShe is capable ___ her work.",
+    "options": [
+      "of",
+      "with",
+      "for",
+      "in"
+    ],
+    "correctIndex": 0,
+    "difficulty": 2,
+    "explanation": "التعبير الصحيح: capable of."
+  },
+  {
+    "id": "G034",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nIf they ___ earlier, they would have caught the train.",
+    "options": [
+      "left",
+      "had left",
+      "have left",
+      "leave"
+    ],
+    "correctIndex": 1,
+    "difficulty": 4,
+    "explanation": "الشرط غير الحقيقي في الماضي: If + had + p.p ثم would have + p.p."
+  },
+  {
+    "id": "G035",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nThe report ___ by the manager yesterday.",
+    "options": [
+      "has written",
+      "wrote",
+      "was written",
+      "is writing"
+    ],
+    "correctIndex": 2,
+    "difficulty": 3,
+    "explanation": "المبني للمجهول في الماضي: was/were + past participle."
+  },
+  {
+    "id": "G036",
+    "section": "Grammar",
+    "prompt": "Choose the best option:\\n\\nHe runs ___ than his brother.",
+    "options": [
+      "faster",
+      "more fast",
+      "fastest",
+      "fast"
+    ],
+    "correctIndex": 0,
+    "difficulty": 2,
+    "explanation": "صفات قصيرة: adjective + -er."
+  },
+  {
+    "id": "G037",
+    "section": "Grammar",
+    "prompt": "Choose the correct article:\\n\\nShe went to ___ hospital to visit her friend.",
+    "options": [
+      "a",
+      "the",
+      "an",
+      "No article"
+    ],
+    "correctIndex": 1,
+    "difficulty": 2,
+    "explanation": "عند الإشارة لمكان محدد: the."
+  },
+  {
+    "id": "G038",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nThe book that I bought yesterday is ___.",
+    "options": [
+      "my",
+      "mine",
+      "I",
+      "me"
+    ],
+    "correctIndex": 1,
+    "difficulty": 3,
+    "explanation": "ضمير ملكية مستقل: mine."
+  },
+  {
+    "id": "G039",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nShe ___ in Riyadh since 2020.",
+    "options": [
+      "had lived",
+      "lived",
+      "has lived",
+      "is living"
+    ],
+    "correctIndex": 2,
+    "difficulty": 3,
+    "explanation": "since + مدة حتى الآن => present perfect."
+  },
+  {
+    "id": "G040",
+    "section": "Grammar",
+    "prompt": "Choose the closest meaning to the word in bold:\\n\\nWe need to **common** our study time this week.",
+    "options": [
+      "usual",
+      "rare",
+      "unclear",
+      "dangerous"
+    ],
+    "correctIndex": 0,
+    "difficulty": 2,
+    "explanation": "أقرب معنى لـ common هو: usual."
+  },
+  {
+    "id": "G041",
+    "section": "Grammar",
+    "prompt": "Choose the correct preposition:\\n\\nShe is similar ___ her work.",
+    "options": [
+      "to",
+      "for",
+      "in",
+      "with"
+    ],
+    "correctIndex": 0,
+    "difficulty": 2,
+    "explanation": "التعبير الصحيح: similar to."
+  },
+  {
+    "id": "G042",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nIf she studies hard, she ___ the exam.",
+    "options": [
+      "would pass",
+      "will pass",
+      "passed",
+      "has passed"
+    ],
+    "correctIndex": 1,
+    "difficulty": 4,
+    "explanation": "الشرط الحقيقي في الحاضر: If + present ثم will + verb."
+  },
+  {
+    "id": "G043",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nThe new policy ___ next month.",
+    "options": [
+      "will announce",
+      "will be announced",
+      "is announced",
+      "announced"
+    ],
+    "correctIndex": 1,
+    "difficulty": 3,
+    "explanation": "المستقبل المبني للمجهول: will be + past participle."
+  },
+  {
+    "id": "G044",
+    "section": "Grammar",
+    "prompt": "Choose the best option:\\n\\nThis is the ___ solution for our problem.",
+    "options": [
+      "more good",
+      "better",
+      "good",
+      "best"
+    ],
+    "correctIndex": 3,
+    "difficulty": 2,
+    "explanation": "superlative: best."
+  },
+  {
+    "id": "G045",
+    "section": "Grammar",
+    "prompt": "Choose the correct article:\\n\\nI have ___ idea that might help.",
+    "options": [
+      "an",
+      "the",
+      "No article",
+      "a"
+    ],
+    "correctIndex": 0,
+    "difficulty": 2,
+    "explanation": "an قبل idea (صوت علة)."
+  },
+  {
+    "id": "G046",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nEach of the players brought ___ own equipment.",
+    "options": [
+      "his or her",
+      "their",
+      "them",
+      "they"
+    ],
+    "correctIndex": 0,
+    "difficulty": 3,
+    "explanation": "Each مفرد؛ الأفضل his or her (أو their كاستخدام حديث)."
+  },
+  {
+    "id": "G047",
+    "section": "Grammar",
+    "prompt": "Complete the sentence with the best tense:\\n\\nBy the time we arrived, the meeting ___ already ___ .",
+    "options": [
+      "is starting",
+      "has started",
+      "had started",
+      "was starting"
+    ],
+    "correctIndex": 2,
+    "difficulty": 4,
+    "explanation": "past perfect مع By the time."
+  },
+  {
+    "id": "G048",
+    "section": "Grammar",
+    "prompt": "Choose the closest meaning to the word in bold:\\n\\nWe need to **benefit** our study time this week.",
+    "options": [
+      "mistake",
+      "advantage",
+      "problem",
+      "delay"
+    ],
+    "correctIndex": 1,
+    "difficulty": 2,
+    "explanation": "أقرب معنى لـ benefit هو: advantage."
+  },
+  {
+    "id": "G049",
+    "section": "Grammar",
+    "prompt": "Choose the correct preposition:\\n\\nShe is afraid ___ her work.",
+    "options": [
+      "of",
+      "from",
+      "for",
+      "to"
+    ],
+    "correctIndex": 0,
+    "difficulty": 2,
+    "explanation": "التعبير الصحيح: afraid of."
+  },
+  {
+    "id": "G050",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nIf they ___ earlier, they would have caught the train.",
+    "options": [
+      "leave",
+      "had left",
+      "left",
+      "have left"
+    ],
+    "correctIndex": 1,
+    "difficulty": 4,
+    "explanation": "الشرط غير الحقيقي في الماضي: If + had + p.p ثم would have + p.p."
+  },
+  {
+    "id": "G051",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nMany mistakes ___ in the first draft.",
+    "options": [
+      "found",
+      "are finding",
+      "have find",
+      "were found"
+    ],
+    "correctIndex": 3,
+    "difficulty": 3,
+    "explanation": "مع الجمع نستخدم were + past participle."
+  },
+  {
+    "id": "G052",
+    "section": "Grammar",
+    "prompt": "Choose the best option:\\n\\nThis is the ___ solution for our problem.",
+    "options": [
+      "better",
+      "more good",
+      "best",
+      "good"
+    ],
+    "correctIndex": 2,
+    "difficulty": 2,
+    "explanation": "superlative: best."
+  },
+  {
+    "id": "G053",
+    "section": "Grammar",
+    "prompt": "Choose the correct article:\\n\\nI have ___ idea that might help.",
+    "options": [
+      "an",
+      "the",
+      "a",
+      "No article"
+    ],
+    "correctIndex": 0,
+    "difficulty": 2,
+    "explanation": "an قبل idea (صوت علة)."
+  },
+  {
+    "id": "G054",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nEach of the players brought ___ own equipment.",
+    "options": [
+      "them",
+      "their",
+      "they",
+      "his or her"
+    ],
+    "correctIndex": 3,
+    "difficulty": 3,
+    "explanation": "Each مفرد؛ الأفضل his or her (أو their كاستخدام حديث)."
+  },
+  {
+    "id": "G055",
+    "section": "Grammar",
+    "prompt": "Complete the sentence with the best tense:\\n\\nBy the time we arrived, the meeting ___ already ___ .",
+    "options": [
+      "had started",
+      "was starting",
+      "is starting",
+      "has started"
+    ],
+    "correctIndex": 0,
+    "difficulty": 4,
+    "explanation": "past perfect مع By the time."
+  },
+  {
+    "id": "G056",
+    "section": "Grammar",
+    "prompt": "Choose the closest meaning to the word in bold:\\n\\nWe need to **reduce** our study time this week.",
+    "options": [
+      "add",
+      "lower",
+      "break",
+      "borrow"
+    ],
+    "correctIndex": 1,
+    "difficulty": 2,
+    "explanation": "أقرب معنى لـ reduce هو: lower."
+  },
+  {
+    "id": "G057",
+    "section": "Grammar",
+    "prompt": "Choose the correct preposition:\\n\\nShe is capable ___ her work.",
+    "options": [
+      "for",
+      "with",
+      "in",
+      "of"
+    ],
+    "correctIndex": 3,
+    "difficulty": 2,
+    "explanation": "التعبير الصحيح: capable of."
+  },
+  {
+    "id": "G058",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nIf she studies hard, she ___ the exam.",
+    "options": [
+      "passed",
+      "would pass",
+      "will pass",
+      "has passed"
+    ],
+    "correctIndex": 2,
+    "difficulty": 4,
+    "explanation": "الشرط الحقيقي في الحاضر: If + present ثم will + verb."
+  },
+  {
+    "id": "G059",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nThe new policy ___ next month.",
+    "options": [
+      "will be announced",
+      "is announced",
+      "will announce",
+      "announced"
+    ],
+    "correctIndex": 0,
+    "difficulty": 3,
+    "explanation": "المستقبل المبني للمجهول: will be + past participle."
+  },
+  {
+    "id": "G060",
+    "section": "Grammar",
+    "prompt": "Choose the best option:\\n\\nHe runs ___ than his brother.",
+    "options": [
+      "more fast",
+      "fastest",
+      "faster",
+      "fast"
+    ],
+    "correctIndex": 2,
+    "difficulty": 2,
+    "explanation": "صفات قصيرة: adjective + -er."
+  },
+  {
+    "id": "G061",
+    "section": "Grammar",
+    "prompt": "Choose the correct article:\\n\\nShe went to ___ hospital to visit her friend.",
+    "options": [
+      "an",
+      "a",
+      "the",
+      "No article"
+    ],
+    "correctIndex": 2,
+    "difficulty": 2,
+    "explanation": "عند الإشارة لمكان محدد: the."
+  },
+  {
+    "id": "G062",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nThe book that I bought yesterday is ___.",
+    "options": [
+      "I",
+      "my",
+      "mine",
+      "me"
+    ],
+    "correctIndex": 2,
+    "difficulty": 3,
+    "explanation": "ضمير ملكية مستقل: mine."
+  },
+  {
+    "id": "G063",
+    "section": "Grammar",
+    "prompt": "Complete the sentence with the best tense:\\n\\nBy the time we arrived, the meeting ___ already ___ .",
+    "options": [
+      "was starting",
+      "has started",
+      "is starting",
+      "had started"
+    ],
+    "correctIndex": 3,
+    "difficulty": 4,
+    "explanation": "past perfect مع By the time."
+  },
+  {
+    "id": "G064",
+    "section": "Grammar",
+    "prompt": "Choose the closest meaning to the word in bold:\\n\\nWe need to **rapid** our study time this week.",
+    "options": [
+      "empty",
+      "fast",
+      "weak",
+      "slow"
+    ],
+    "correctIndex": 1,
+    "difficulty": 2,
+    "explanation": "أقرب معنى لـ rapid هو: fast."
+  },
+  {
+    "id": "G065",
+    "section": "Grammar",
+    "prompt": "Choose the correct preposition:\\n\\nShe is similar ___ her work.",
+    "options": [
+      "in",
+      "to",
+      "for",
+      "with"
+    ],
+    "correctIndex": 1,
+    "difficulty": 2,
+    "explanation": "التعبير الصحيح: similar to."
+  },
+  {
+    "id": "G066",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nIf she studies hard, she ___ the exam.",
+    "options": [
+      "would pass",
+      "will pass",
+      "passed",
+      "has passed"
+    ],
+    "correctIndex": 1,
+    "difficulty": 4,
+    "explanation": "الشرط الحقيقي في الحاضر: If + present ثم will + verb."
+  },
+  {
+    "id": "G067",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nMany mistakes ___ in the first draft.",
+    "options": [
+      "are finding",
+      "have find",
+      "were found",
+      "found"
+    ],
+    "correctIndex": 2,
+    "difficulty": 3,
+    "explanation": "مع الجمع نستخدم were + past participle."
+  },
+  {
+    "id": "G068",
+    "section": "Grammar",
+    "prompt": "Choose the best option:\\n\\nHe runs ___ than his brother.",
+    "options": [
+      "fastest",
+      "fast",
+      "more fast",
+      "faster"
+    ],
+    "correctIndex": 3,
+    "difficulty": 2,
+    "explanation": "صفات قصيرة: adjective + -er."
+  },
+  {
+    "id": "G069",
+    "section": "Grammar",
+    "prompt": "Choose the correct article:\\n\\nShe went to ___ hospital to visit her friend.",
+    "options": [
+      "an",
+      "the",
+      "a",
+      "No article"
+    ],
+    "correctIndex": 1,
+    "difficulty": 2,
+    "explanation": "عند الإشارة لمكان محدد: the."
+  },
+  {
+    "id": "G070",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nEach of the players brought ___ own equipment.",
+    "options": [
+      "them",
+      "his or her",
+      "they",
+      "their"
+    ],
+    "correctIndex": 1,
+    "difficulty": 3,
+    "explanation": "Each مفرد؛ الأفضل his or her (أو their كاستخدام حديث)."
+  },
+  {
+    "id": "G071",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nRight now, they ___ the final answers.",
+    "options": [
+      "check",
+      "have checked",
+      "checked",
+      "are checking"
+    ],
+    "correctIndex": 3,
+    "difficulty": 3,
+    "explanation": "Right now => present continuous."
+  },
+  {
+    "id": "G072",
+    "section": "Grammar",
+    "prompt": "Choose the closest meaning to the word in bold:\\n\\nWe need to **common** our study time this week.",
+    "options": [
+      "unclear",
+      "rare",
+      "usual",
+      "dangerous"
+    ],
+    "correctIndex": 2,
+    "difficulty": 2,
+    "explanation": "أقرب معنى لـ common هو: usual."
+  },
+  {
+    "id": "G073",
+    "section": "Grammar",
+    "prompt": "Choose the correct preposition:\\n\\nShe is responsible ___ her work.",
+    "options": [
+      "for",
+      "to",
+      "with",
+      "at"
+    ],
+    "correctIndex": 0,
+    "difficulty": 2,
+    "explanation": "التعبير الصحيح: responsible for."
+  },
+  {
+    "id": "G074",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nIf they ___ earlier, they would have caught the train.",
+    "options": [
+      "had left",
+      "leave",
+      "have left",
+      "left"
+    ],
+    "correctIndex": 0,
+    "difficulty": 4,
+    "explanation": "الشرط غير الحقيقي في الماضي: If + had + p.p ثم would have + p.p."
+  },
+  {
+    "id": "G075",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nThe new policy ___ next month.",
+    "options": [
+      "announced",
+      "will be announced",
+      "is announced",
+      "will announce"
+    ],
+    "correctIndex": 1,
+    "difficulty": 3,
+    "explanation": "المستقبل المبني للمجهول: will be + past participle."
+  },
+  {
+    "id": "G076",
+    "section": "Grammar",
+    "prompt": "Choose the best option:\\n\\nHe runs ___ than his brother.",
+    "options": [
+      "fast",
+      "faster",
+      "fastest",
+      "more fast"
+    ],
+    "correctIndex": 1,
+    "difficulty": 2,
+    "explanation": "صفات قصيرة: adjective + -er."
+  },
+  {
+    "id": "G077",
+    "section": "Grammar",
+    "prompt": "Choose the correct article:\\n\\nI have ___ idea that might help.",
+    "options": [
+      "a",
+      "an",
+      "No article",
+      "the"
+    ],
+    "correctIndex": 1,
+    "difficulty": 2,
+    "explanation": "an قبل idea (صوت علة)."
+  },
+  {
+    "id": "G078",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nEach of the players brought ___ own equipment.",
+    "options": [
+      "their",
+      "they",
+      "his or her",
+      "them"
+    ],
+    "correctIndex": 2,
+    "difficulty": 3,
+    "explanation": "Each مفرد؛ الأفضل his or her (أو their كاستخدام حديث)."
+  },
+  {
+    "id": "G079",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nShe ___ in Riyadh since 2020.",
+    "options": [
+      "is living",
+      "lived",
+      "had lived",
+      "has lived"
+    ],
+    "correctIndex": 3,
+    "difficulty": 3,
+    "explanation": "since + مدة حتى الآن => present perfect."
+  },
+  {
+    "id": "G080",
+    "section": "Grammar",
+    "prompt": "Choose the closest meaning to the word in bold:\\n\\nWe need to **benefit** our study time this week.",
+    "options": [
+      "mistake",
+      "advantage",
+      "problem",
+      "delay"
+    ],
+    "correctIndex": 1,
+    "difficulty": 2,
+    "explanation": "أقرب معنى لـ benefit هو: advantage."
+  },
+  {
+    "id": "G081",
+    "section": "Grammar",
+    "prompt": "Choose the correct preposition:\\n\\nShe is similar ___ her work.",
+    "options": [
+      "for",
+      "to",
+      "with",
+      "in"
+    ],
+    "correctIndex": 1,
+    "difficulty": 2,
+    "explanation": "التعبير الصحيح: similar to."
+  },
+  {
+    "id": "G082",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nIf she studies hard, she ___ the exam.",
+    "options": [
+      "has passed",
+      "will pass",
+      "would pass",
+      "passed"
+    ],
+    "correctIndex": 1,
+    "difficulty": 4,
+    "explanation": "الشرط الحقيقي في الحاضر: If + present ثم will + verb."
+  },
+  {
+    "id": "G083",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nMany mistakes ___ in the first draft.",
+    "options": [
+      "found",
+      "have find",
+      "were found",
+      "are finding"
+    ],
+    "correctIndex": 2,
+    "difficulty": 3,
+    "explanation": "مع الجمع نستخدم were + past participle."
+  },
+  {
+    "id": "G084",
+    "section": "Grammar",
+    "prompt": "Choose the best option:\\n\\nHe runs ___ than his brother.",
+    "options": [
+      "fastest",
+      "faster",
+      "more fast",
+      "fast"
+    ],
+    "correctIndex": 1,
+    "difficulty": 2,
+    "explanation": "صفات قصيرة: adjective + -er."
+  },
+  {
+    "id": "G085",
+    "section": "Grammar",
+    "prompt": "Choose the correct article:\\n\\nShe went to ___ hospital to visit her friend.",
+    "options": [
+      "an",
+      "No article",
+      "a",
+      "the"
+    ],
+    "correctIndex": 3,
+    "difficulty": 2,
+    "explanation": "عند الإشارة لمكان محدد: the."
+  },
+  {
+    "id": "G086",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nEach of the players brought ___ own equipment.",
+    "options": [
+      "his or her",
+      "their",
+      "them",
+      "they"
+    ],
+    "correctIndex": 0,
+    "difficulty": 3,
+    "explanation": "Each مفرد؛ الأفضل his or her (أو their كاستخدام حديث)."
+  },
+  {
+    "id": "G087",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nShe ___ in Riyadh since 2020.",
+    "options": [
+      "has lived",
+      "is living",
+      "lived",
+      "had lived"
+    ],
+    "correctIndex": 0,
+    "difficulty": 3,
+    "explanation": "since + مدة حتى الآن => present perfect."
+  },
+  {
+    "id": "G088",
+    "section": "Grammar",
+    "prompt": "Choose the closest meaning to the word in bold:\\n\\nWe need to **aware** our study time this week.",
+    "options": [
+      "empty",
+      "silent",
+      "conscious",
+      "angry"
+    ],
+    "correctIndex": 2,
+    "difficulty": 2,
+    "explanation": "أقرب معنى لـ aware هو: conscious."
+  },
+  {
+    "id": "G089",
+    "section": "Grammar",
+    "prompt": "Choose the correct preposition:\\n\\nShe is depend ___ her work.",
+    "options": [
+      "for",
+      "on",
+      "with",
+      "to"
+    ],
+    "correctIndex": 1,
+    "difficulty": 2,
+    "explanation": "التعبير الصحيح: depend on."
+  },
+  {
+    "id": "G090",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nIf she studies hard, she ___ the exam.",
+    "options": [
+      "will pass",
+      "has passed",
+      "would pass",
+      "passed"
+    ],
+    "correctIndex": 0,
+    "difficulty": 4,
+    "explanation": "الشرط الحقيقي في الحاضر: If + present ثم will + verb."
+  },
+  {
+    "id": "G091",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nThe report ___ by the manager yesterday.",
+    "options": [
+      "was written",
+      "wrote",
+      "is writing",
+      "has written"
+    ],
+    "correctIndex": 0,
+    "difficulty": 3,
+    "explanation": "المبني للمجهول في الماضي: was/were + past participle."
+  },
+  {
+    "id": "G092",
+    "section": "Grammar",
+    "prompt": "Choose the best option:\\n\\nThis is the ___ solution for our problem.",
+    "options": [
+      "better",
+      "more good",
+      "good",
+      "best"
+    ],
+    "correctIndex": 3,
+    "difficulty": 2,
+    "explanation": "superlative: best."
+  },
+  {
+    "id": "G093",
+    "section": "Grammar",
+    "prompt": "Choose the correct article:\\n\\nShe went to ___ hospital to visit her friend.",
+    "options": [
+      "a",
+      "the",
+      "No article",
+      "an"
+    ],
+    "correctIndex": 1,
+    "difficulty": 2,
+    "explanation": "عند الإشارة لمكان محدد: the."
+  },
+  {
+    "id": "G094",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nThe book that I bought yesterday is ___.",
+    "options": [
+      "me",
+      "mine",
+      "I",
+      "my"
+    ],
+    "correctIndex": 1,
+    "difficulty": 3,
+    "explanation": "ضمير ملكية مستقل: mine."
+  },
+  {
+    "id": "G095",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nRight now, they ___ the final answers.",
+    "options": [
+      "checked",
+      "are checking",
+      "have checked",
+      "check"
+    ],
+    "correctIndex": 1,
+    "difficulty": 3,
+    "explanation": "Right now => present continuous."
+  },
+  {
+    "id": "G096",
+    "section": "Grammar",
+    "prompt": "Choose the closest meaning to the word in bold:\\n\\nWe need to **aware** our study time this week.",
+    "options": [
+      "empty",
+      "conscious",
+      "angry",
+      "silent"
+    ],
+    "correctIndex": 1,
+    "difficulty": 2,
+    "explanation": "أقرب معنى لـ aware هو: conscious."
+  },
+  {
+    "id": "G097",
+    "section": "Grammar",
+    "prompt": "Choose the correct preposition:\\n\\nShe is afraid ___ her work.",
+    "options": [
+      "from",
+      "for",
+      "to",
+      "of"
+    ],
+    "correctIndex": 3,
+    "difficulty": 2,
+    "explanation": "التعبير الصحيح: afraid of."
+  },
+  {
+    "id": "G098",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nIf they ___ earlier, they would have caught the train.",
+    "options": [
+      "had left",
+      "leave",
+      "have left",
+      "left"
+    ],
+    "correctIndex": 0,
+    "difficulty": 4,
+    "explanation": "الشرط غير الحقيقي في الماضي: If + had + p.p ثم would have + p.p."
+  },
+  {
+    "id": "G099",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nThe report ___ by the manager yesterday.",
+    "options": [
+      "has written",
+      "is writing",
+      "was written",
+      "wrote"
+    ],
+    "correctIndex": 2,
+    "difficulty": 3,
+    "explanation": "المبني للمجهول في الماضي: was/were + past participle."
+  },
+  {
+    "id": "G100",
+    "section": "Grammar",
+    "prompt": "Choose the best option:\\n\\nThis method is ___ than the old one.",
+    "options": [
+      "more effective",
+      "most effective",
+      "as effective",
+      "effective"
+    ],
+    "correctIndex": 0,
+    "difficulty": 2,
+    "explanation": "عند المقارنة نستخدم more + adjective الطويل."
+  },
+  {
+    "id": "G101",
+    "section": "Grammar",
+    "prompt": "Choose the correct article:\\n\\nI have ___ idea that might help.",
+    "options": [
+      "an",
+      "the",
+      "No article",
+      "a"
+    ],
+    "correctIndex": 0,
+    "difficulty": 2,
+    "explanation": "an قبل idea (صوت علة)."
+  },
+  {
+    "id": "G102",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nThe book that I bought yesterday is ___.",
+    "options": [
+      "my",
+      "mine",
+      "I",
+      "me"
+    ],
+    "correctIndex": 1,
+    "difficulty": 3,
+    "explanation": "ضمير ملكية مستقل: mine."
+  },
+  {
+    "id": "G103",
+    "section": "Grammar",
+    "prompt": "Complete the sentence with the best tense:\\n\\nBy the time we arrived, the meeting ___ already ___ .",
+    "options": [
+      "was starting",
+      "has started",
+      "had started",
+      "is starting"
+    ],
+    "correctIndex": 2,
+    "difficulty": 4,
+    "explanation": "past perfect مع By the time."
+  },
+  {
+    "id": "G104",
+    "section": "Grammar",
+    "prompt": "Choose the closest meaning to the word in bold:\\n\\nWe need to **benefit** our study time this week.",
+    "options": [
+      "delay",
+      "mistake",
+      "advantage",
+      "problem"
+    ],
+    "correctIndex": 2,
+    "difficulty": 2,
+    "explanation": "أقرب معنى لـ benefit هو: advantage."
+  },
+  {
+    "id": "G105",
+    "section": "Grammar",
+    "prompt": "Choose the correct preposition:\\n\\nShe is famous ___ her work.",
+    "options": [
+      "with",
+      "to",
+      "for",
+      "in"
+    ],
+    "correctIndex": 2,
+    "difficulty": 2,
+    "explanation": "التعبير الصحيح: famous for."
+  },
+  {
+    "id": "G106",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nIf she studies hard, she ___ the exam.",
+    "options": [
+      "will pass",
+      "has passed",
+      "would pass",
+      "passed"
+    ],
+    "correctIndex": 0,
+    "difficulty": 4,
+    "explanation": "الشرط الحقيقي في الحاضر: If + present ثم will + verb."
+  },
+  {
+    "id": "G107",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nThe new policy ___ next month.",
+    "options": [
+      "will be announced",
+      "is announced",
+      "announced",
+      "will announce"
+    ],
+    "correctIndex": 0,
+    "difficulty": 3,
+    "explanation": "المستقبل المبني للمجهول: will be + past participle."
+  },
+  {
+    "id": "G108",
+    "section": "Grammar",
+    "prompt": "Choose the best option:\\n\\nThis method is ___ than the old one.",
+    "options": [
+      "as effective",
+      "effective",
+      "most effective",
+      "more effective"
+    ],
+    "correctIndex": 3,
+    "difficulty": 2,
+    "explanation": "عند المقارنة نستخدم more + adjective الطويل."
+  },
+  {
+    "id": "G109",
+    "section": "Grammar",
+    "prompt": "Choose the correct article:\\n\\nI have ___ idea that might help.",
+    "options": [
+      "an",
+      "No article",
+      "a",
+      "the"
+    ],
+    "correctIndex": 0,
+    "difficulty": 2,
+    "explanation": "an قبل idea (صوت علة)."
+  },
+  {
+    "id": "G110",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nThe book that I bought yesterday is ___.",
+    "options": [
+      "my",
+      "I",
+      "me",
+      "mine"
+    ],
+    "correctIndex": 3,
+    "difficulty": 3,
+    "explanation": "ضمير ملكية مستقل: mine."
+  },
+  {
+    "id": "G111",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nRight now, they ___ the final answers.",
+    "options": [
+      "are checking",
+      "check",
+      "checked",
+      "have checked"
+    ],
+    "correctIndex": 0,
+    "difficulty": 3,
+    "explanation": "Right now => present continuous."
+  },
+  {
+    "id": "G112",
+    "section": "Grammar",
+    "prompt": "Choose the closest meaning to the word in bold:\\n\\nWe need to **rapid** our study time this week.",
+    "options": [
+      "weak",
+      "slow",
+      "fast",
+      "empty"
+    ],
+    "correctIndex": 2,
+    "difficulty": 2,
+    "explanation": "أقرب معنى لـ rapid هو: fast."
+  },
+  {
+    "id": "G113",
+    "section": "Grammar",
+    "prompt": "Choose the correct preposition:\\n\\nShe is depend ___ her work.",
+    "options": [
+      "on",
+      "for",
+      "with",
+      "to"
+    ],
+    "correctIndex": 0,
+    "difficulty": 2,
+    "explanation": "التعبير الصحيح: depend on."
+  },
+  {
+    "id": "G114",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nIf she studies hard, she ___ the exam.",
+    "options": [
+      "has passed",
+      "will pass",
+      "passed",
+      "would pass"
+    ],
+    "correctIndex": 1,
+    "difficulty": 4,
+    "explanation": "الشرط الحقيقي في الحاضر: If + present ثم will + verb."
+  },
+  {
+    "id": "G115",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nThe new policy ___ next month.",
+    "options": [
+      "is announced",
+      "will be announced",
+      "announced",
+      "will announce"
+    ],
+    "correctIndex": 1,
+    "difficulty": 3,
+    "explanation": "المستقبل المبني للمجهول: will be + past participle."
+  },
+  {
+    "id": "G116",
+    "section": "Grammar",
+    "prompt": "Choose the best option:\\n\\nThis method is ___ than the old one.",
+    "options": [
+      "as effective",
+      "most effective",
+      "effective",
+      "more effective"
+    ],
+    "correctIndex": 3,
+    "difficulty": 2,
+    "explanation": "عند المقارنة نستخدم more + adjective الطويل."
+  },
+  {
+    "id": "G117",
+    "section": "Grammar",
+    "prompt": "Choose the correct article:\\n\\n___ honest person is trusted by everyone.",
+    "options": [
+      "The",
+      "A",
+      "No article",
+      "An"
+    ],
+    "correctIndex": 3,
+    "difficulty": 2,
+    "explanation": "An قبل صوت حرف علة."
+  },
+  {
+    "id": "G118",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nThe book that I bought yesterday is ___.",
+    "options": [
+      "me",
+      "I",
+      "my",
+      "mine"
+    ],
+    "correctIndex": 3,
+    "difficulty": 3,
+    "explanation": "ضمير ملكية مستقل: mine."
+  },
+  {
+    "id": "G119",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nRight now, they ___ the final answers.",
+    "options": [
+      "are checking",
+      "have checked",
+      "checked",
+      "check"
+    ],
+    "correctIndex": 0,
+    "difficulty": 3,
+    "explanation": "Right now => present continuous."
+  },
+  {
+    "id": "G120",
+    "section": "Grammar",
+    "prompt": "Choose the closest meaning to the word in bold:\\n\\nWe need to **benefit** our study time this week.",
+    "options": [
+      "delay",
+      "problem",
+      "advantage",
+      "mistake"
+    ],
+    "correctIndex": 2,
+    "difficulty": 2,
+    "explanation": "أقرب معنى لـ benefit هو: advantage."
+  },
+  {
+    "id": "G121",
+    "section": "Grammar",
+    "prompt": "Choose the correct preposition:\\n\\nShe is capable ___ her work.",
+    "options": [
+      "for",
+      "with",
+      "in",
+      "of"
+    ],
+    "correctIndex": 3,
+    "difficulty": 2,
+    "explanation": "التعبير الصحيح: capable of."
+  },
+  {
+    "id": "G122",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nIf I ___ enough time, I would travel more.",
+    "options": [
+      "had",
+      "have",
+      "will have",
+      "has"
+    ],
+    "correctIndex": 0,
+    "difficulty": 4,
+    "explanation": "الشرط غير الحقيقي في الحاضر يستخدم (If + past) مع (would)."
+  },
+  {
+    "id": "G123",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nThe new policy ___ next month.",
+    "options": [
+      "is announced",
+      "will be announced",
+      "will announce",
+      "announced"
+    ],
+    "correctIndex": 1,
+    "difficulty": 3,
+    "explanation": "المستقبل المبني للمجهول: will be + past participle."
+  },
+  {
+    "id": "G124",
+    "section": "Grammar",
+    "prompt": "Choose the best option:\\n\\nThis is the ___ solution for our problem.",
+    "options": [
+      "better",
+      "good",
+      "more good",
+      "best"
+    ],
+    "correctIndex": 3,
+    "difficulty": 2,
+    "explanation": "superlative: best."
+  },
+  {
+    "id": "G125",
+    "section": "Grammar",
+    "prompt": "Choose the correct article:\\n\\nShe went to ___ hospital to visit her friend.",
+    "options": [
+      "a",
+      "an",
+      "No article",
+      "the"
+    ],
+    "correctIndex": 3,
+    "difficulty": 2,
+    "explanation": "عند الإشارة لمكان محدد: the."
+  },
+  {
+    "id": "G126",
+    "section": "Grammar",
+    "prompt": "Complete the sentence:\\n\\nThe book that I bought yesterday is ___.",
+    "options": [
+      "me",
+      "my",
+      "I",
+      "mine"
+    ],
+    "correctIndex": 3,
+    "difficulty": 3,
+    "explanation": "ضمير ملكية مستقل: mine."
+  },
+  {
+    "id": "G127",
+    "section": "Grammar",
+    "prompt": "Complete the sentence with the best tense:\\n\\nBy the time we arrived, the meeting ___ already ___ .",
+    "options": [
+      "has started",
+      "had started",
+      "was starting",
+      "is starting"
+    ],
+    "correctIndex": 1,
+    "difficulty": 4,
+    "explanation": "past perfect مع By the time."
+  },
+  {
+    "id": "G128",
+    "section": "Grammar",
+    "prompt": "Choose the closest meaning to the word in bold:\\n\\nWe need to **aware** our study time this week.",
+    "options": [
+      "silent",
+      "angry",
+      "empty",
+      "conscious"
+    ],
+    "correctIndex": 3,
+    "difficulty": 2,
+    "explanation": "أقرب معنى لـ aware هو: conscious."
+  },
+  {
+    "id": "R001",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many universities have started using online learning. This change helps people work in a more efficient way. As a result, they often experience faster feedback.\\n\\nQuestion: What can be inferred from the passage?",
+    "options": [
+      "Only one country uses online learning.",
+      "Many universities believe online learning can be useful in their daily work.",
+      "People will stop learning because of online learning.",
+      "Online Learning has no disadvantages at all."
+    ],
+    "correctIndex": 1,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج: شيء منطقي من النص حتى لو ما انذكر حرفياً."
+  },
+  {
+    "id": "R002",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many labs have started using new methods. This change helps people work in a more focused way. As a result, they often experience reliable results.\\n\\nQuestion: According to the passage, one result of using new methods is:",
+    "options": [
+      "reliable results",
+      "more confusion",
+      "less time to rest",
+      "lower quality"
+    ],
+    "correctIndex": 0,
+    "difficulty": 2,
+    "explanation": "Detail question = جواب موجود صراحة في النص."
+  },
+  {
+    "id": "R003",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many apps have started using automation. This change helps people work in a more reduce way. As a result, they often experience accuracy.\\n\\nQuestion: In the passage, the word 'reduce' is closest in meaning to:",
+    "options": [
+      "dangerous",
+      "decrease",
+      "weak",
+      "careless"
+    ],
+    "correctIndex": 1,
+    "difficulty": 3,
+    "explanation": "Vocabulary in context = معنى الكلمة حسب سياق النص."
+  },
+  {
+    "id": "R004",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many software have started using automation. This change helps people work in a more organized way. As a result, they often experience accessibility.\\n\\nQuestion: According to the passage, one result of using automation is:",
+    "options": [
+      "lower quality",
+      "more errors",
+      "more confusion",
+      "accessibility"
+    ],
+    "correctIndex": 3,
+    "difficulty": 2,
+    "explanation": "Detail question = جواب موجود صراحة في النص."
+  },
+  {
+    "id": "R005",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many cities have started using public transport. This change helps people work in a more focused way. As a result, they often experience sustainable growth.\\n\\nQuestion: What is the main idea of the passage?",
+    "options": [
+      "The passage focuses only on the history of public transport.",
+      "Public Transport is too expensive to be useful for most people.",
+      "Cities are stopping all traditional methods completely.",
+      "Cities are adopting public transport to improve performance and outcomes."
+    ],
+    "correctIndex": 3,
+    "difficulty": 3,
+    "explanation": "Main idea = الفكرة العامة: لماذا ذُكر التوجه وما نتيجته."
+  },
+  {
+    "id": "R006",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many AI tools have started using cybersecurity. This change helps people work in a more focused way. As a result, they often experience accessibility.\\n\\nQuestion: According to the passage, one result of using cybersecurity is:",
+    "options": [
+      "higher prices",
+      "lower quality",
+      "more pollution",
+      "accessibility"
+    ],
+    "correctIndex": 3,
+    "difficulty": 2,
+    "explanation": "Detail question = جواب موجود صراحة في النص."
+  },
+  {
+    "id": "R007",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many apps have started using automation. This change helps people work in a more focused way. As a result, they often experience cost savings.\\n\\nQuestion: What can be inferred from the passage?",
+    "options": [
+      "Many apps believe automation can be useful in their daily work.",
+      "Only one country uses automation.",
+      "Automation has no disadvantages at all.",
+      "People will stop learning because of automation."
+    ],
+    "correctIndex": 0,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج: شيء منطقي من النص حتى لو ما انذكر حرفياً."
+  },
+  {
+    "id": "R008",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many schools have started using peer feedback. This change helps people work in a more efficient way. As a result, they often experience flexibility.\\n\\nQuestion: What is the main idea of the passage?",
+    "options": [
+      "Peer Feedback is too expensive to be useful for most people.",
+      "The passage focuses only on the history of peer feedback.",
+      "Schools are adopting peer feedback to improve performance and outcomes.",
+      "Schools are stopping all traditional methods completely."
+    ],
+    "correctIndex": 2,
+    "difficulty": 3,
+    "explanation": "Main idea = الفكرة العامة: لماذا ذُكر التوجه وما نتيجته."
+  },
+  {
+    "id": "R009",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many cities have started using solar energy. This change helps people work in a more focused way. As a result, they often experience sustainable growth.\\n\\nQuestion: According to the passage, one result of using solar energy is:",
+    "options": [
+      "less time to rest",
+      "higher prices",
+      "sustainable growth",
+      "more errors"
+    ],
+    "correctIndex": 2,
+    "difficulty": 2,
+    "explanation": "Detail question = جواب موجود صراحة في النص."
+  },
+  {
+    "id": "R010",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many small businesses have started using remote work. This change helps people work in a more organized way. As a result, they often experience lower expenses.\\n\\nQuestion: What is the main idea of the passage?",
+    "options": [
+      "The passage focuses only on the history of remote work.",
+      "Small Businesses are adopting remote work to improve performance and outcomes.",
+      "Remote Work is too expensive to be useful for most people.",
+      "Small Businesses are stopping all traditional methods completely."
+    ],
+    "correctIndex": 1,
+    "difficulty": 3,
+    "explanation": "Main idea = الفكرة العامة: لماذا ذُكر التوجه وما نتيجته."
+  },
+  {
+    "id": "R011",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many AI tools have started using cloud storage. This change helps people work in a more organized way. As a result, they often experience accessibility.\\n\\nQuestion: What can be inferred from the passage?",
+    "options": [
+      "Many AI tools believe cloud storage can be useful in their daily work.",
+      "People will stop learning because of cloud storage.",
+      "Only one country uses cloud storage.",
+      "Cloud Storage has no disadvantages at all."
+    ],
+    "correctIndex": 0,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج: شيء منطقي من النص حتى لو ما انذكر حرفياً."
+  },
+  {
+    "id": "R012",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many scientists have started using new methods. This change helps people work in a more efficient way. As a result, they often experience safer solutions.\\n\\nQuestion: What can be inferred from the passage?",
+    "options": [
+      "Only one country uses new methods.",
+      "People will stop learning because of new methods.",
+      "New Methods has no disadvantages at all.",
+      "Many scientists believe new methods can be useful in their daily work."
+    ],
+    "correctIndex": 3,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج: شيء منطقي من النص حتى لو ما انذكر حرفياً."
+  },
+  {
+    "id": "R013",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many companies have started using solar energy. This change helps people work in a more efficient way. As a result, they often experience less pollution.\\n\\nQuestion: According to the passage, one result of using solar energy is:",
+    "options": [
+      "more confusion",
+      "more errors",
+      "less time to rest",
+      "less pollution"
+    ],
+    "correctIndex": 3,
+    "difficulty": 2,
+    "explanation": "Detail question = جواب موجود صراحة في النص."
+  },
+  {
+    "id": "R014",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many apps have started using automation. This change helps people work in a more organized way. As a result, they often experience efficiency.\\n\\nQuestion: What is the main idea of the passage?",
+    "options": [
+      "Apps are adopting automation to improve performance and outcomes.",
+      "Automation is too expensive to be useful for most people.",
+      "Apps are stopping all traditional methods completely.",
+      "The passage focuses only on the history of automation."
+    ],
+    "correctIndex": 0,
+    "difficulty": 3,
+    "explanation": "Main idea = الفكرة العامة: لماذا ذُكر التوجه وما نتيجته."
+  },
+  {
+    "id": "R015",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many smart devices have started using automation. This change helps people work in a more organized way. As a result, they often experience cost savings.\\n\\nQuestion: What can be inferred from the passage?",
+    "options": [
+      "Many smart devices believe automation can be useful in their daily work.",
+      "Only one country uses automation.",
+      "People will stop learning because of automation.",
+      "Automation has no disadvantages at all."
+    ],
+    "correctIndex": 0,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج: شيء منطقي من النص حتى لو ما انذكر حرفياً."
+  },
+  {
+    "id": "R016",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many clinics have started using balanced diets. This change helps people work in a more focused way. As a result, they often experience stronger immunity.\\n\\nQuestion: What is the main idea of the passage?",
+    "options": [
+      "The passage focuses only on the history of balanced diets.",
+      "Balanced Diets is too expensive to be useful for most people.",
+      "Clinics are adopting balanced diets to improve performance and outcomes.",
+      "Clinics are stopping all traditional methods completely."
+    ],
+    "correctIndex": 2,
+    "difficulty": 3,
+    "explanation": "Main idea = الفكرة العامة: لماذا ذُكر التوجه وما نتيجته."
+  },
+  {
+    "id": "R017",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many cities have started using water conservation. This change helps people work in a more efficient way. As a result, they often experience cleaner air.\\n\\nQuestion: What can be inferred from the passage?",
+    "options": [
+      "People will stop learning because of water conservation.",
+      "Water Conservation has no disadvantages at all.",
+      "Only one country uses water conservation.",
+      "Many cities believe water conservation can be useful in their daily work."
+    ],
+    "correctIndex": 3,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج: شيء منطقي من النص حتى لو ما انذكر حرفياً."
+  },
+  {
+    "id": "R018",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many students have started using project-based learning. This change helps people work in a more focused way. As a result, they often experience faster feedback.\\n\\nQuestion: What can be inferred from the passage?",
+    "options": [
+      "Many students believe project-based learning can be useful in their daily work.",
+      "Only one country uses project-based learning.",
+      "People will stop learning because of project-based learning.",
+      "Project-Based Learning has no disadvantages at all."
+    ],
+    "correctIndex": 0,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج: شيء منطقي من النص حتى لو ما انذكر حرفياً."
+  },
+  {
+    "id": "R019",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many companies have started using digital payments. This change helps people work in a more organized way. As a result, they often experience lower expenses.\\n\\nQuestion: What is the main idea of the passage?",
+    "options": [
+      "Companies are stopping all traditional methods completely.",
+      "Digital Payments is too expensive to be useful for most people.",
+      "Companies are adopting digital payments to improve performance and outcomes.",
+      "The passage focuses only on the history of digital payments."
+    ],
+    "correctIndex": 2,
+    "difficulty": 3,
+    "explanation": "Main idea = الفكرة العامة: لماذا ذُكر التوجه وما نتيجته."
+  },
+  {
+    "id": "R020",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many markets have started using online shopping. This change helps people work in a more maintain way. As a result, they often experience more choices.\\n\\nQuestion: In the passage, the word 'maintain' is closest in meaning to:",
+    "options": [
+      "weak",
+      "keep",
+      "rare",
+      "empty"
+    ],
+    "correctIndex": 1,
+    "difficulty": 3,
+    "explanation": "Vocabulary in context = معنى الكلمة حسب سياق النص."
+  },
+  {
+    "id": "R021",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many software have started using automation. This change helps people work in a more reduce way. As a result, they often experience efficiency.\\n\\nQuestion: In the passage, the word 'reduce' is closest in meaning to:",
+    "options": [
+      "decrease",
+      "empty",
+      "rare",
+      "careless"
+    ],
+    "correctIndex": 0,
+    "difficulty": 3,
+    "explanation": "Vocabulary in context = معنى الكلمة حسب سياق النص."
+  },
+  {
+    "id": "R022",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many universities have started using short quizzes. This change helps people work in a more organized way. As a result, they often experience better engagement.\\n\\nQuestion: What can be inferred from the passage?",
+    "options": [
+      "Many universities believe short quizzes can be useful in their daily work.",
+      "People will stop learning because of short quizzes.",
+      "Short Quizzes has no disadvantages at all.",
+      "Only one country uses short quizzes."
+    ],
+    "correctIndex": 0,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج: شيء منطقي من النص حتى لو ما انذكر حرفياً."
+  },
+  {
+    "id": "R023",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many research teams have started using field experiments. This change helps people work in a more efficient way. As a result, they often experience useful innovations.\\n\\nQuestion: According to the passage, one result of using field experiments is:",
+    "options": [
+      "higher prices",
+      "less time to rest",
+      "more pollution",
+      "useful innovations"
+    ],
+    "correctIndex": 3,
+    "difficulty": 2,
+    "explanation": "Detail question = جواب موجود صراحة في النص."
+  },
+  {
+    "id": "R024",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many AI tools have started using cybersecurity. This change helps people work in a more efficient way. As a result, they often experience accessibility.\\n\\nQuestion: What is the main idea of the passage?",
+    "options": [
+      "The passage focuses only on the history of cybersecurity.",
+      "Ai Tools are stopping all traditional methods completely.",
+      "Ai Tools are adopting cybersecurity to improve performance and outcomes.",
+      "Cybersecurity is too expensive to be useful for most people."
+    ],
+    "correctIndex": 2,
+    "difficulty": 3,
+    "explanation": "Main idea = الفكرة العامة: لماذا ذُكر التوجه وما نتيجته."
+  },
+  {
+    "id": "R025",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many researchers have started using balanced diets. This change helps people work in a more organized way. As a result, they often experience stronger immunity.\\n\\nQuestion: According to the passage, one result of using balanced diets is:",
+    "options": [
+      "more confusion",
+      "stronger immunity",
+      "higher prices",
+      "more errors"
+    ],
+    "correctIndex": 1,
+    "difficulty": 2,
+    "explanation": "Detail question = جواب موجود صراحة في النص."
+  },
+  {
+    "id": "R026",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many schools have started using peer feedback. This change helps people work in a more focused way. As a result, they often experience higher motivation.\\n\\nQuestion: What is the main idea of the passage?",
+    "options": [
+      "The passage focuses only on the history of peer feedback.",
+      "Schools are adopting peer feedback to improve performance and outcomes.",
+      "Schools are stopping all traditional methods completely.",
+      "Peer Feedback is too expensive to be useful for most people."
+    ],
+    "correctIndex": 1,
+    "difficulty": 3,
+    "explanation": "Main idea = الفكرة العامة: لماذا ذُكر التوجه وما نتيجته."
+  },
+  {
+    "id": "R027",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many teachers have started using short quizzes. This change helps people work in a more significant way. As a result, they often experience better engagement.\\n\\nQuestion: In the passage, the word 'significant' is closest in meaning to:",
+    "options": [
+      "weak",
+      "rare",
+      "empty",
+      "important"
+    ],
+    "correctIndex": 3,
+    "difficulty": 3,
+    "explanation": "Vocabulary in context = معنى الكلمة حسب سياق النص."
+  },
+  {
+    "id": "R028",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many AI tools have started using cloud storage. This change helps people work in a more focused way. As a result, they often experience efficiency.\\n\\nQuestion: What can be inferred from the passage?",
+    "options": [
+      "Cloud Storage has no disadvantages at all.",
+      "Only one country uses cloud storage.",
+      "People will stop learning because of cloud storage.",
+      "Many AI tools believe cloud storage can be useful in their daily work."
+    ],
+    "correctIndex": 3,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج: شيء منطقي من النص حتى لو ما انذكر حرفياً."
+  },
+  {
+    "id": "R029",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many AI tools have started using data analysis. This change helps people work in a more efficient way. As a result, they often experience efficiency.\\n\\nQuestion: What is the main idea of the passage?",
+    "options": [
+      "Data Analysis is too expensive to be useful for most people.",
+      "The passage focuses only on the history of data analysis.",
+      "Ai Tools are stopping all traditional methods completely.",
+      "Ai Tools are adopting data analysis to improve performance and outcomes."
+    ],
+    "correctIndex": 3,
+    "difficulty": 3,
+    "explanation": "Main idea = الفكرة العامة: لماذا ذُكر التوجه وما نتيجته."
+  },
+  {
+    "id": "R030",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many AI tools have started using cybersecurity. This change helps people work in a more beneficial way. As a result, they often experience cost savings.\\n\\nQuestion: In the passage, the word 'beneficial' is closest in meaning to:",
+    "options": [
+      "helpful",
+      "dangerous",
+      "late",
+      "weak"
+    ],
+    "correctIndex": 0,
+    "difficulty": 3,
+    "explanation": "Vocabulary in context = معنى الكلمة حسب سياق النص."
+  },
+  {
+    "id": "R031",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many communities have started using recycling programs. This change helps people work in a more focused way. As a result, they often experience lower costs.\\n\\nQuestion: What can be inferred from the passage?",
+    "options": [
+      "Many communities believe recycling programs can be useful in their daily work.",
+      "Only one country uses recycling programs.",
+      "Recycling Programs has no disadvantages at all.",
+      "People will stop learning because of recycling programs."
+    ],
+    "correctIndex": 0,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج: شيء منطقي من النص حتى لو ما انذكر حرفياً."
+  },
+  {
+    "id": "R032",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many universities have started using peer feedback. This change helps people work in a more challenge way. As a result, they often experience higher motivation.\\n\\nQuestion: In the passage, the word 'challenge' is closest in meaning to:",
+    "options": [
+      "weak",
+      "empty",
+      "late",
+      "difficulty"
+    ],
+    "correctIndex": 3,
+    "difficulty": 3,
+    "explanation": "Vocabulary in context = معنى الكلمة حسب سياق النص."
+  },
+  {
+    "id": "R033",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many companies have started using solar energy. This change helps people work in a more efficient way. As a result, they often experience cleaner air.\\n\\nQuestion: What can be inferred from the passage?",
+    "options": [
+      "Only one country uses solar energy.",
+      "People will stop learning because of solar energy.",
+      "Many companies believe solar energy can be useful in their daily work.",
+      "Solar Energy has no disadvantages at all."
+    ],
+    "correctIndex": 2,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج: شيء منطقي من النص حتى لو ما انذكر حرفياً."
+  },
+  {
+    "id": "R034",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many consumers have started using online shopping. This change helps people work in a more reduce way. As a result, they often experience more choices.\\n\\nQuestion: In the passage, the word 'reduce' is closest in meaning to:",
+    "options": [
+      "empty",
+      "weak",
+      "late",
+      "decrease"
+    ],
+    "correctIndex": 3,
+    "difficulty": 3,
+    "explanation": "Vocabulary in context = معنى الكلمة حسب سياق النص."
+  },
+  {
+    "id": "R035",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many clinics have started using daily exercise. This change helps people work in a more efficient way. As a result, they often experience more energy.\\n\\nQuestion: According to the passage, one result of using daily exercise is:",
+    "options": [
+      "less time to rest",
+      "more energy",
+      "more confusion",
+      "more errors"
+    ],
+    "correctIndex": 1,
+    "difficulty": 2,
+    "explanation": "Detail question = جواب موجود صراحة في النص."
+  },
+  {
+    "id": "R036",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many research teams have started using long-term studies. This change helps people work in a more efficient way. As a result, they often experience better understanding.\\n\\nQuestion: What can be inferred from the passage?",
+    "options": [
+      "Only one country uses long-term studies.",
+      "Many research teams believe long-term studies can be useful in their daily work.",
+      "People will stop learning because of long-term studies.",
+      "Long-Term Studies has no disadvantages at all."
+    ],
+    "correctIndex": 1,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج: شيء منطقي من النص حتى لو ما انذكر حرفياً."
+  },
+  {
+    "id": "R037",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many universities have started using project-based learning. This change helps people work in a more efficient way. As a result, they often experience better engagement.\\n\\nQuestion: In the passage, the word 'efficient' is closest in meaning to:",
+    "options": [
+      "empty",
+      "effective",
+      "weak",
+      "dangerous"
+    ],
+    "correctIndex": 1,
+    "difficulty": 3,
+    "explanation": "Vocabulary in context = معنى الكلمة حسب سياق النص."
+  },
+  {
+    "id": "R038",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many clinics have started using preventive care. This change helps people work in a more focused way. As a result, they often experience lower stress.\\n\\nQuestion: According to the passage, one result of using preventive care is:",
+    "options": [
+      "more confusion",
+      "more pollution",
+      "higher prices",
+      "lower stress"
+    ],
+    "correctIndex": 3,
+    "difficulty": 2,
+    "explanation": "Detail question = جواب موجود صراحة في النص."
+  },
+  {
+    "id": "R039",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many small businesses have started using remote work. This change helps people work in a more efficient way. As a result, they often experience more choices.\\n\\nQuestion: According to the passage, one result of using remote work is:",
+    "options": [
+      "more pollution",
+      "less time to rest",
+      "more choices",
+      "lower quality"
+    ],
+    "correctIndex": 2,
+    "difficulty": 2,
+    "explanation": "Detail question = جواب موجود صراحة في النص."
+  },
+  {
+    "id": "R040",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many smart devices have started using cybersecurity. This change helps people work in a more focused way. As a result, they often experience accessibility.\\n\\nQuestion: What can be inferred from the passage?",
+    "options": [
+      "People will stop learning because of cybersecurity.",
+      "Only one country uses cybersecurity.",
+      "Many smart devices believe cybersecurity can be useful in their daily work.",
+      "Cybersecurity has no disadvantages at all."
+    ],
+    "correctIndex": 2,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج: شيء منطقي من النص حتى لو ما انذكر حرفياً."
+  },
+  {
+    "id": "R041",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many universities have started using new methods. This change helps people work in a more focused way. As a result, they often experience better understanding.\\n\\nQuestion: What can be inferred from the passage?",
+    "options": [
+      "People will stop learning because of new methods.",
+      "Many universities believe new methods can be useful in their daily work.",
+      "Only one country uses new methods.",
+      "New Methods has no disadvantages at all."
+    ],
+    "correctIndex": 1,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج: شيء منطقي من النص حتى لو ما انذكر حرفياً."
+  },
+  {
+    "id": "R042",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many communities have started using solar energy. This change helps people work in a more organized way. As a result, they often experience less pollution.\\n\\nQuestion: What can be inferred from the passage?",
+    "options": [
+      "Solar Energy has no disadvantages at all.",
+      "People will stop learning because of solar energy.",
+      "Many communities believe solar energy can be useful in their daily work.",
+      "Only one country uses solar energy."
+    ],
+    "correctIndex": 2,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج: شيء منطقي من النص حتى لو ما انذكر حرفياً."
+  },
+  {
+    "id": "R043",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many research teams have started using peer review. This change helps people work in a more efficient way. As a result, they often experience reliable results.\\n\\nQuestion: According to the passage, one result of using peer review is:",
+    "options": [
+      "less time to rest",
+      "more confusion",
+      "reliable results",
+      "higher prices"
+    ],
+    "correctIndex": 2,
+    "difficulty": 2,
+    "explanation": "Detail question = جواب موجود صراحة في النص."
+  },
+  {
+    "id": "R044",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many teachers have started using short quizzes. This change helps people work in a more rapidly way. As a result, they often experience higher motivation.\\n\\nQuestion: In the passage, the word 'rapidly' is closest in meaning to:",
+    "options": [
+      "dangerous",
+      "late",
+      "careless",
+      "quickly"
+    ],
+    "correctIndex": 3,
+    "difficulty": 3,
+    "explanation": "Vocabulary in context = معنى الكلمة حسب سياق النص."
+  },
+  {
+    "id": "R045",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many AI tools have started using automation. This change helps people work in a more efficient way. As a result, they often experience efficiency.\\n\\nQuestion: What is the main idea of the passage?",
+    "options": [
+      "The passage focuses only on the history of automation.",
+      "Ai Tools are adopting automation to improve performance and outcomes.",
+      "Ai Tools are stopping all traditional methods completely.",
+      "Automation is too expensive to be useful for most people."
+    ],
+    "correctIndex": 1,
+    "difficulty": 3,
+    "explanation": "Main idea = الفكرة العامة: لماذا ذُكر التوجه وما نتيجته."
+  },
+  {
+    "id": "R046",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many students have started using project-based learning. This change helps people work in a more organized way. As a result, they often experience higher motivation.\\n\\nQuestion: What is the main idea of the passage?",
+    "options": [
+      "The passage focuses only on the history of project-based learning.",
+      "Project-Based Learning is too expensive to be useful for most people.",
+      "Students are stopping all traditional methods completely.",
+      "Students are adopting project-based learning to improve performance and outcomes."
+    ],
+    "correctIndex": 3,
+    "difficulty": 3,
+    "explanation": "Main idea = الفكرة العامة: لماذا ذُكر التوجه وما نتيجته."
+  },
+  {
+    "id": "R047",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many scientists have started using peer review. This change helps people work in a more likely way. As a result, they often experience better understanding.\\n\\nQuestion: In the passage, the word 'likely' is closest in meaning to:",
+    "options": [
+      "late",
+      "dangerous",
+      "probable",
+      "rare"
+    ],
+    "correctIndex": 2,
+    "difficulty": 3,
+    "explanation": "Vocabulary in context = معنى الكلمة حسب سياق النص."
+  },
+  {
+    "id": "R048",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many research teams have started using field experiments. This change helps people work in a more organized way. As a result, they often experience safer solutions.\\n\\nQuestion: What is the main idea of the passage?",
+    "options": [
+      "The passage focuses only on the history of field experiments.",
+      "Field Experiments is too expensive to be useful for most people.",
+      "Research Teams are stopping all traditional methods completely.",
+      "Research Teams are adopting field experiments to improve performance and outcomes."
+    ],
+    "correctIndex": 3,
+    "difficulty": 3,
+    "explanation": "Main idea = الفكرة العامة: لماذا ذُكر التوجه وما نتيجته."
+  },
+  {
+    "id": "R049",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many apps have started using cloud storage. This change helps people work in a more efficient way. As a result, they often experience efficiency.\\n\\nQuestion: What is the main idea of the passage?",
+    "options": [
+      "Apps are adopting cloud storage to improve performance and outcomes.",
+      "Apps are stopping all traditional methods completely.",
+      "The passage focuses only on the history of cloud storage.",
+      "Cloud Storage is too expensive to be useful for most people."
+    ],
+    "correctIndex": 0,
+    "difficulty": 3,
+    "explanation": "Main idea = الفكرة العامة: لماذا ذُكر التوجه وما نتيجته."
+  },
+  {
+    "id": "R050",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many apps have started using automation. This change helps people work in a more organized way. As a result, they often experience accuracy.\\n\\nQuestion: What can be inferred from the passage?",
+    "options": [
+      "Only one country uses automation.",
+      "People will stop learning because of automation.",
+      "Automation has no disadvantages at all.",
+      "Many apps believe automation can be useful in their daily work."
+    ],
+    "correctIndex": 3,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج: شيء منطقي من النص حتى لو ما انذكر حرفياً."
+  },
+  {
+    "id": "R051",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many researchers have started using sleep routines. This change helps people work in a more focused way. As a result, they often experience more energy.\\n\\nQuestion: What can be inferred from the passage?",
+    "options": [
+      "People will stop learning because of sleep routines.",
+      "Sleep Routines has no disadvantages at all.",
+      "Only one country uses sleep routines.",
+      "Many researchers believe sleep routines can be useful in their daily work."
+    ],
+    "correctIndex": 3,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج: شيء منطقي من النص حتى لو ما انذكر حرفياً."
+  },
+  {
+    "id": "R052",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many software have started using cybersecurity. This change helps people work in a more efficient way. As a result, they often experience accessibility.\\n\\nQuestion: In the passage, the word 'efficient' is closest in meaning to:",
+    "options": [
+      "empty",
+      "dangerous",
+      "effective",
+      "careless"
+    ],
+    "correctIndex": 2,
+    "difficulty": 3,
+    "explanation": "Vocabulary in context = معنى الكلمة حسب سياق النص."
+  },
+  {
+    "id": "R053",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many small businesses have started using digital payments. This change helps people work in a more organized way. As a result, they often experience convenience.\\n\\nQuestion: What can be inferred from the passage?",
+    "options": [
+      "Digital Payments has no disadvantages at all.",
+      "Many small businesses believe digital payments can be useful in their daily work.",
+      "Only one country uses digital payments.",
+      "People will stop learning because of digital payments."
+    ],
+    "correctIndex": 1,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج: شيء منطقي من النص حتى لو ما انذكر حرفياً."
+  },
+  {
+    "id": "R054",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many small businesses have started using local products. This change helps people work in a more challenge way. As a result, they often experience faster service.\\n\\nQuestion: In the passage, the word 'challenge' is closest in meaning to:",
+    "options": [
+      "careless",
+      "difficulty",
+      "dangerous",
+      "rare"
+    ],
+    "correctIndex": 1,
+    "difficulty": 3,
+    "explanation": "Vocabulary in context = معنى الكلمة حسب سياق النص."
+  },
+  {
+    "id": "R055",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many consumers have started using online shopping. This change helps people work in a more organized way. As a result, they often experience faster service.\\n\\nQuestion: According to the passage, one result of using online shopping is:",
+    "options": [
+      "more errors",
+      "more pollution",
+      "less time to rest",
+      "faster service"
+    ],
+    "correctIndex": 3,
+    "difficulty": 2,
+    "explanation": "Detail question = جواب موجود صراحة في النص."
+  },
+  {
+    "id": "R056",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many universities have started using long-term studies. This change helps people work in a more focused way. As a result, they often experience better understanding.\\n\\nQuestion: What can be inferred from the passage?",
+    "options": [
+      "Long-Term Studies has no disadvantages at all.",
+      "Many universities believe long-term studies can be useful in their daily work.",
+      "People will stop learning because of long-term studies.",
+      "Only one country uses long-term studies."
+    ],
+    "correctIndex": 1,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج: شيء منطقي من النص حتى لو ما انذكر حرفياً."
+  },
+  {
+    "id": "R057",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many teachers have started using short quizzes. This change helps people work in a more efficient way. As a result, they often experience faster feedback.\\n\\nQuestion: In the passage, the word 'efficient' is closest in meaning to:",
+    "options": [
+      "empty",
+      "careless",
+      "late",
+      "effective"
+    ],
+    "correctIndex": 3,
+    "difficulty": 3,
+    "explanation": "Vocabulary in context = معنى الكلمة حسب سياق النص."
+  },
+  {
+    "id": "R058",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many apps have started using automation. This change helps people work in a more efficient way. As a result, they often experience efficiency.\\n\\nQuestion: What can be inferred from the passage?",
+    "options": [
+      "Many apps believe automation can be useful in their daily work.",
+      "Only one country uses automation.",
+      "Automation has no disadvantages at all.",
+      "People will stop learning because of automation."
+    ],
+    "correctIndex": 0,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج: شيء منطقي من النص حتى لو ما انذكر حرفياً."
+  },
+  {
+    "id": "R059",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many universities have started using peer review. This change helps people work in a more organized way. As a result, they often experience reliable results.\\n\\nQuestion: What can be inferred from the passage?",
+    "options": [
+      "Only one country uses peer review.",
+      "Peer Review has no disadvantages at all.",
+      "Many universities believe peer review can be useful in their daily work.",
+      "People will stop learning because of peer review."
+    ],
+    "correctIndex": 2,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج: شيء منطقي من النص حتى لو ما انذكر حرفياً."
+  },
+  {
+    "id": "R060",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many teachers have started using peer feedback. This change helps people work in a more maintain way. As a result, they often experience better engagement.\\n\\nQuestion: In the passage, the word 'maintain' is closest in meaning to:",
+    "options": [
+      "keep",
+      "late",
+      "dangerous",
+      "rare"
+    ],
+    "correctIndex": 0,
+    "difficulty": 3,
+    "explanation": "Vocabulary in context = معنى الكلمة حسب سياق النص."
+  },
+  {
+    "id": "R061",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many cities have started using public transport. This change helps people work in a more reduce way. As a result, they often experience lower costs.\\n\\nQuestion: In the passage, the word 'reduce' is closest in meaning to:",
+    "options": [
+      "careless",
+      "decrease",
+      "rare",
+      "dangerous"
+    ],
+    "correctIndex": 1,
+    "difficulty": 3,
+    "explanation": "Vocabulary in context = معنى الكلمة حسب سياق النص."
+  },
+  {
+    "id": "R062",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many companies have started using solar energy. This change helps people work in a more focused way. As a result, they often experience less pollution.\\n\\nQuestion: According to the passage, one result of using solar energy is:",
+    "options": [
+      "lower quality",
+      "less pollution",
+      "more confusion",
+      "higher prices"
+    ],
+    "correctIndex": 1,
+    "difficulty": 2,
+    "explanation": "Detail question = جواب موجود صراحة في النص."
+  },
+  {
+    "id": "R063",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many smart devices have started using data analysis. This change helps people work in a more organized way. As a result, they often experience efficiency.\\n\\nQuestion: What is the main idea of the passage?",
+    "options": [
+      "Data Analysis is too expensive to be useful for most people.",
+      "Smart Devices are stopping all traditional methods completely.",
+      "Smart Devices are adopting data analysis to improve performance and outcomes.",
+      "The passage focuses only on the history of data analysis."
+    ],
+    "correctIndex": 2,
+    "difficulty": 3,
+    "explanation": "Main idea = الفكرة العامة: لماذا ذُكر التوجه وما نتيجته."
+  },
+  {
+    "id": "R064",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many labs have started using field experiments. This change helps people work in a more significant way. As a result, they often experience safer solutions.\\n\\nQuestion: In the passage, the word 'significant' is closest in meaning to:",
+    "options": [
+      "important",
+      "weak",
+      "late",
+      "rare"
+    ],
+    "correctIndex": 0,
+    "difficulty": 3,
+    "explanation": "Vocabulary in context = معنى الكلمة حسب سياق النص."
+  },
+  {
+    "id": "R065",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many AI tools have started using cloud storage. This change helps people work in a more organized way. As a result, they often experience accessibility.\\n\\nQuestion: What can be inferred from the passage?",
+    "options": [
+      "Only one country uses cloud storage.",
+      "People will stop learning because of cloud storage.",
+      "Cloud Storage has no disadvantages at all.",
+      "Many AI tools believe cloud storage can be useful in their daily work."
+    ],
+    "correctIndex": 3,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج: شيء منطقي من النص حتى لو ما انذكر حرفياً."
+  },
+  {
+    "id": "R066",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many cities have started using public transport. This change helps people work in a more organized way. As a result, they often experience lower costs.\\n\\nQuestion: According to the passage, one result of using public transport is:",
+    "options": [
+      "more errors",
+      "lower costs",
+      "less time to rest",
+      "more confusion"
+    ],
+    "correctIndex": 1,
+    "difficulty": 2,
+    "explanation": "Detail question = جواب موجود صراحة في النص."
+  },
+  {
+    "id": "R067",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many scientists have started using peer review. This change helps people work in a more focused way. As a result, they often experience better understanding.\\n\\nQuestion: According to the passage, one result of using peer review is:",
+    "options": [
+      "better understanding",
+      "more pollution",
+      "less time to rest",
+      "higher prices"
+    ],
+    "correctIndex": 0,
+    "difficulty": 2,
+    "explanation": "Detail question = جواب موجود صراحة في النص."
+  },
+  {
+    "id": "R068",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many research teams have started using peer review. This change helps people work in a more maintain way. As a result, they often experience useful innovations.\\n\\nQuestion: In the passage, the word 'maintain' is closest in meaning to:",
+    "options": [
+      "weak",
+      "keep",
+      "careless",
+      "dangerous"
+    ],
+    "correctIndex": 1,
+    "difficulty": 3,
+    "explanation": "Vocabulary in context = معنى الكلمة حسب سياق النص."
+  },
+  {
+    "id": "R069",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many students have started using peer feedback. This change helps people work in a more focused way. As a result, they often experience faster feedback.\\n\\nQuestion: What is the main idea of the passage?",
+    "options": [
+      "Peer Feedback is too expensive to be useful for most people.",
+      "Students are stopping all traditional methods completely.",
+      "Students are adopting peer feedback to improve performance and outcomes.",
+      "The passage focuses only on the history of peer feedback."
+    ],
+    "correctIndex": 2,
+    "difficulty": 3,
+    "explanation": "Main idea = الفكرة العامة: لماذا ذُكر التوجه وما نتيجته."
+  },
+  {
+    "id": "R070",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many doctors have started using balanced diets. This change helps people work in a more focused way. As a result, they often experience better focus.\\n\\nQuestion: What can be inferred from the passage?",
+    "options": [
+      "People will stop learning because of balanced diets.",
+      "Only one country uses balanced diets.",
+      "Many doctors believe balanced diets can be useful in their daily work.",
+      "Balanced Diets has no disadvantages at all."
+    ],
+    "correctIndex": 2,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج: شيء منطقي من النص حتى لو ما انذكر حرفياً."
+  },
+  {
+    "id": "R071",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many teachers have started using peer feedback. This change helps people work in a more focused way. As a result, they often experience better engagement.\\n\\nQuestion: What is the main idea of the passage?",
+    "options": [
+      "Teachers are adopting peer feedback to improve performance and outcomes.",
+      "Peer Feedback is too expensive to be useful for most people.",
+      "Teachers are stopping all traditional methods completely.",
+      "The passage focuses only on the history of peer feedback."
+    ],
+    "correctIndex": 0,
+    "difficulty": 3,
+    "explanation": "Main idea = الفكرة العامة: لماذا ذُكر التوجه وما نتيجته."
+  },
+  {
+    "id": "R072",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many companies have started using water conservation. This change helps people work in a more focused way. As a result, they often experience less pollution.\\n\\nQuestion: According to the passage, one result of using water conservation is:",
+    "options": [
+      "less pollution",
+      "more confusion",
+      "lower quality",
+      "less time to rest"
+    ],
+    "correctIndex": 0,
+    "difficulty": 2,
+    "explanation": "Detail question = جواب موجود صراحة في النص."
+  },
+  {
+    "id": "R073",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many smart devices have started using cloud storage. This change helps people work in a more efficient way. As a result, they often experience efficiency.\\n\\nQuestion: According to the passage, one result of using cloud storage is:",
+    "options": [
+      "more errors",
+      "efficiency",
+      "less time to rest",
+      "more confusion"
+    ],
+    "correctIndex": 1,
+    "difficulty": 2,
+    "explanation": "Detail question = جواب موجود صراحة في النص."
+  },
+  {
+    "id": "R074",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many software have started using data analysis. This change helps people work in a more efficient way. As a result, they often experience accessibility.\\n\\nQuestion: What can be inferred from the passage?",
+    "options": [
+      "Many software believe data analysis can be useful in their daily work.",
+      "People will stop learning because of data analysis.",
+      "Data Analysis has no disadvantages at all.",
+      "Only one country uses data analysis."
+    ],
+    "correctIndex": 0,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج: شيء منطقي من النص حتى لو ما انذكر حرفياً."
+  },
+  {
+    "id": "R075",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many cities have started using water conservation. This change helps people work in a more focused way. As a result, they often experience less pollution.\\n\\nQuestion: What is the main idea of the passage?",
+    "options": [
+      "Cities are stopping all traditional methods completely.",
+      "Water Conservation is too expensive to be useful for most people.",
+      "Cities are adopting water conservation to improve performance and outcomes.",
+      "The passage focuses only on the history of water conservation."
+    ],
+    "correctIndex": 2,
+    "difficulty": 3,
+    "explanation": "Main idea = الفكرة العامة: لماذا ذُكر التوجه وما نتيجته."
+  },
+  {
+    "id": "R076",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many universities have started using field experiments. This change helps people work in a more organized way. As a result, they often experience useful innovations.\\n\\nQuestion: According to the passage, one result of using field experiments is:",
+    "options": [
+      "useful innovations",
+      "less time to rest",
+      "more errors",
+      "more confusion"
+    ],
+    "correctIndex": 0,
+    "difficulty": 2,
+    "explanation": "Detail question = جواب موجود صراحة في النص."
+  },
+  {
+    "id": "R077",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many software have started using data analysis. This change helps people work in a more efficient way. As a result, they often experience efficiency.\\n\\nQuestion: What can be inferred from the passage?",
+    "options": [
+      "Only one country uses data analysis.",
+      "Many software believe data analysis can be useful in their daily work.",
+      "People will stop learning because of data analysis.",
+      "Data Analysis has no disadvantages at all."
+    ],
+    "correctIndex": 1,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج: شيء منطقي من النص حتى لو ما انذكر حرفياً."
+  },
+  {
+    "id": "R078",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many teachers have started using peer feedback. This change helps people work in a more organized way. As a result, they often experience better engagement.\\n\\nQuestion: According to the passage, one result of using peer feedback is:",
+    "options": [
+      "better engagement",
+      "lower quality",
+      "higher prices",
+      "less time to rest"
+    ],
+    "correctIndex": 0,
+    "difficulty": 2,
+    "explanation": "Detail question = جواب موجود صراحة في النص."
+  },
+  {
+    "id": "R079",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many companies have started using water conservation. This change helps people work in a more organized way. As a result, they often experience sustainable growth.\\n\\nQuestion: What is the main idea of the passage?",
+    "options": [
+      "Companies are adopting water conservation to improve performance and outcomes.",
+      "The passage focuses only on the history of water conservation.",
+      "Water Conservation is too expensive to be useful for most people.",
+      "Companies are stopping all traditional methods completely."
+    ],
+    "correctIndex": 0,
+    "difficulty": 3,
+    "explanation": "Main idea = الفكرة العامة: لماذا ذُكر التوجه وما نتيجته."
+  },
+  {
+    "id": "R080",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many students have started using project-based learning. This change helps people work in a more focused way. As a result, they often experience flexibility.\\n\\nQuestion: What is the main idea of the passage?",
+    "options": [
+      "Project-Based Learning is too expensive to be useful for most people.",
+      "The passage focuses only on the history of project-based learning.",
+      "Students are adopting project-based learning to improve performance and outcomes.",
+      "Students are stopping all traditional methods completely."
+    ],
+    "correctIndex": 2,
+    "difficulty": 3,
+    "explanation": "Main idea = الفكرة العامة: لماذا ذُكر التوجه وما نتيجته."
+  },
+  {
+    "id": "R081",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many patients have started using preventive care. This change helps people work in a more focused way. As a result, they often experience more energy.\\n\\nQuestion: What can be inferred from the passage?",
+    "options": [
+      "People will stop learning because of preventive care.",
+      "Only one country uses preventive care.",
+      "Many patients believe preventive care can be useful in their daily work.",
+      "Preventive Care has no disadvantages at all."
+    ],
+    "correctIndex": 2,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج: شيء منطقي من النص حتى لو ما انذكر حرفياً."
+  },
+  {
+    "id": "R082",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many doctors have started using sleep routines. This change helps people work in a more efficient way. As a result, they often experience better focus.\\n\\nQuestion: According to the passage, one result of using sleep routines is:",
+    "options": [
+      "lower quality",
+      "more errors",
+      "better focus",
+      "more confusion"
+    ],
+    "correctIndex": 2,
+    "difficulty": 2,
+    "explanation": "Detail question = جواب موجود صراحة في النص."
+  },
+  {
+    "id": "R083",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many schools have started using project-based learning. This change helps people work in a more organized way. As a result, they often experience better engagement.\\n\\nQuestion: What is the main idea of the passage?",
+    "options": [
+      "Project-Based Learning is too expensive to be useful for most people.",
+      "The passage focuses only on the history of project-based learning.",
+      "Schools are adopting project-based learning to improve performance and outcomes.",
+      "Schools are stopping all traditional methods completely."
+    ],
+    "correctIndex": 2,
+    "difficulty": 3,
+    "explanation": "Main idea = الفكرة العامة: لماذا ذُكر التوجه وما نتيجته."
+  },
+  {
+    "id": "R084",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many scientists have started using peer review. This change helps people work in a more focused way. As a result, they often experience safer solutions.\\n\\nQuestion: What is the main idea of the passage?",
+    "options": [
+      "Scientists are stopping all traditional methods completely.",
+      "The passage focuses only on the history of peer review.",
+      "Peer Review is too expensive to be useful for most people.",
+      "Scientists are adopting peer review to improve performance and outcomes."
+    ],
+    "correctIndex": 3,
+    "difficulty": 3,
+    "explanation": "Main idea = الفكرة العامة: لماذا ذُكر التوجه وما نتيجته."
+  },
+  {
+    "id": "R085",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many scientists have started using new methods. This change helps people work in a more beneficial way. As a result, they often experience reliable results.\\n\\nQuestion: In the passage, the word 'beneficial' is closest in meaning to:",
+    "options": [
+      "rare",
+      "helpful",
+      "empty",
+      "dangerous"
+    ],
+    "correctIndex": 1,
+    "difficulty": 3,
+    "explanation": "Vocabulary in context = معنى الكلمة حسب سياق النص."
+  },
+  {
+    "id": "R086",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many apps have started using cloud storage. This change helps people work in a more focused way. As a result, they often experience cost savings.\\n\\nQuestion: What is the main idea of the passage?",
+    "options": [
+      "Apps are stopping all traditional methods completely.",
+      "Apps are adopting cloud storage to improve performance and outcomes.",
+      "The passage focuses only on the history of cloud storage.",
+      "Cloud Storage is too expensive to be useful for most people."
+    ],
+    "correctIndex": 1,
+    "difficulty": 3,
+    "explanation": "Main idea = الفكرة العامة: لماذا ذُكر التوجه وما نتيجته."
+  },
+  {
+    "id": "R087",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many cities have started using recycling programs. This change helps people work in a more organized way. As a result, they often experience cleaner air.\\n\\nQuestion: What is the main idea of the passage?",
+    "options": [
+      "Cities are stopping all traditional methods completely.",
+      "Recycling Programs is too expensive to be useful for most people.",
+      "Cities are adopting recycling programs to improve performance and outcomes.",
+      "The passage focuses only on the history of recycling programs."
+    ],
+    "correctIndex": 2,
+    "difficulty": 3,
+    "explanation": "Main idea = الفكرة العامة: لماذا ذُكر التوجه وما نتيجته."
+  },
+  {
+    "id": "R088",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many patients have started using balanced diets. This change helps people work in a more efficient way. As a result, they often experience more energy.\\n\\nQuestion: According to the passage, one result of using balanced diets is:",
+    "options": [
+      "more energy",
+      "lower quality",
+      "more pollution",
+      "higher prices"
+    ],
+    "correctIndex": 0,
+    "difficulty": 2,
+    "explanation": "Detail question = جواب موجود صراحة في النص."
+  },
+  {
+    "id": "R089",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many patients have started using preventive care. This change helps people work in a more focused way. As a result, they often experience stronger immunity.\\n\\nQuestion: What is the main idea of the passage?",
+    "options": [
+      "The passage focuses only on the history of preventive care.",
+      "Patients are stopping all traditional methods completely.",
+      "Preventive Care is too expensive to be useful for most people.",
+      "Patients are adopting preventive care to improve performance and outcomes."
+    ],
+    "correctIndex": 3,
+    "difficulty": 3,
+    "explanation": "Main idea = الفكرة العامة: لماذا ذُكر التوجه وما نتيجته."
+  },
+  {
+    "id": "R090",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many apps have started using automation. This change helps people work in a more efficient way. As a result, they often experience efficiency.\\n\\nQuestion: According to the passage, one result of using automation is:",
+    "options": [
+      "lower quality",
+      "more confusion",
+      "efficiency",
+      "more pollution"
+    ],
+    "correctIndex": 2,
+    "difficulty": 2,
+    "explanation": "Detail question = جواب موجود صراحة في النص."
+  },
+  {
+    "id": "R091",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many apps have started using cloud storage. This change helps people work in a more focused way. As a result, they often experience accessibility.\\n\\nQuestion: What can be inferred from the passage?",
+    "options": [
+      "Cloud Storage has no disadvantages at all.",
+      "Many apps believe cloud storage can be useful in their daily work.",
+      "Only one country uses cloud storage.",
+      "People will stop learning because of cloud storage."
+    ],
+    "correctIndex": 1,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج: شيء منطقي من النص حتى لو ما انذكر حرفياً."
+  },
+  {
+    "id": "R092",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many universities have started using online learning. This change helps people work in a more focused way. As a result, they often experience better engagement.\\n\\nQuestion: According to the passage, one result of using online learning is:",
+    "options": [
+      "more confusion",
+      "better engagement",
+      "lower quality",
+      "more errors"
+    ],
+    "correctIndex": 1,
+    "difficulty": 2,
+    "explanation": "Detail question = جواب موجود صراحة في النص."
+  },
+  {
+    "id": "R093",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many doctors have started using daily exercise. This change helps people work in a more rapidly way. As a result, they often experience stronger immunity.\\n\\nQuestion: In the passage, the word 'rapidly' is closest in meaning to:",
+    "options": [
+      "dangerous",
+      "quickly",
+      "careless",
+      "empty"
+    ],
+    "correctIndex": 1,
+    "difficulty": 3,
+    "explanation": "Vocabulary in context = معنى الكلمة حسب سياق النص."
+  },
+  {
+    "id": "R094",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many schools have started using online learning. This change helps people work in a more rapidly way. As a result, they often experience better engagement.\\n\\nQuestion: In the passage, the word 'rapidly' is closest in meaning to:",
+    "options": [
+      "careless",
+      "quickly",
+      "empty",
+      "weak"
+    ],
+    "correctIndex": 1,
+    "difficulty": 3,
+    "explanation": "Vocabulary in context = معنى الكلمة حسب سياق النص."
+  },
+  {
+    "id": "R095",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many labs have started using peer review. This change helps people work in a more rapidly way. As a result, they often experience useful innovations.\\n\\nQuestion: In the passage, the word 'rapidly' is closest in meaning to:",
+    "options": [
+      "rare",
+      "dangerous",
+      "quickly",
+      "late"
+    ],
+    "correctIndex": 2,
+    "difficulty": 3,
+    "explanation": "Vocabulary in context = معنى الكلمة حسب سياق النص."
+  },
+  {
+    "id": "R096",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many research teams have started using new methods. This change helps people work in a more focused way. As a result, they often experience useful innovations.\\n\\nQuestion: According to the passage, one result of using new methods is:",
+    "options": [
+      "more errors",
+      "useful innovations",
+      "more confusion",
+      "lower quality"
+    ],
+    "correctIndex": 1,
+    "difficulty": 2,
+    "explanation": "Detail question = جواب موجود صراحة في النص."
+  },
+  {
+    "id": "R097",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many schools have started using short quizzes. This change helps people work in a more organized way. As a result, they often experience higher motivation.\\n\\nQuestion: What is the main idea of the passage?",
+    "options": [
+      "Short Quizzes is too expensive to be useful for most people.",
+      "Schools are adopting short quizzes to improve performance and outcomes.",
+      "Schools are stopping all traditional methods completely.",
+      "The passage focuses only on the history of short quizzes."
+    ],
+    "correctIndex": 1,
+    "difficulty": 3,
+    "explanation": "Main idea = الفكرة العامة: لماذا ذُكر التوجه وما نتيجته."
+  },
+  {
+    "id": "R098",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many doctors have started using preventive care. This change helps people work in a more beneficial way. As a result, they often experience lower stress.\\n\\nQuestion: In the passage, the word 'beneficial' is closest in meaning to:",
+    "options": [
+      "helpful",
+      "weak",
+      "rare",
+      "careless"
+    ],
+    "correctIndex": 0,
+    "difficulty": 3,
+    "explanation": "Vocabulary in context = معنى الكلمة حسب سياق النص."
+  },
+  {
+    "id": "R099",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many teachers have started using short quizzes. This change helps people work in a more efficient way. As a result, they often experience faster feedback.\\n\\nQuestion: In the passage, the word 'efficient' is closest in meaning to:",
+    "options": [
+      "rare",
+      "empty",
+      "careless",
+      "effective"
+    ],
+    "correctIndex": 3,
+    "difficulty": 3,
+    "explanation": "Vocabulary in context = معنى الكلمة حسب سياق النص."
+  },
+  {
+    "id": "R100",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many students have started using project-based learning. This change helps people work in a more efficient way. As a result, they often experience higher motivation.\\n\\nQuestion: What can be inferred from the passage?",
+    "options": [
+      "Only one country uses project-based learning.",
+      "Project-Based Learning has no disadvantages at all.",
+      "People will stop learning because of project-based learning.",
+      "Many students believe project-based learning can be useful in their daily work."
+    ],
+    "correctIndex": 3,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج: شيء منطقي من النص حتى لو ما انذكر حرفياً."
+  },
+  {
+    "id": "R101",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many researchers have started using balanced diets. This change helps people work in a more organized way. As a result, they often experience more energy.\\n\\nQuestion: What is the main idea of the passage?",
+    "options": [
+      "Balanced Diets is too expensive to be useful for most people.",
+      "The passage focuses only on the history of balanced diets.",
+      "Researchers are adopting balanced diets to improve performance and outcomes.",
+      "Researchers are stopping all traditional methods completely."
+    ],
+    "correctIndex": 2,
+    "difficulty": 3,
+    "explanation": "Main idea = الفكرة العامة: لماذا ذُكر التوجه وما نتيجته."
+  },
+  {
+    "id": "R102",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many doctors have started using balanced diets. This change helps people work in a more organized way. As a result, they often experience stronger immunity.\\n\\nQuestion: According to the passage, one result of using balanced diets is:",
+    "options": [
+      "less time to rest",
+      "more errors",
+      "lower quality",
+      "stronger immunity"
+    ],
+    "correctIndex": 3,
+    "difficulty": 2,
+    "explanation": "Detail question = جواب موجود صراحة في النص."
+  },
+  {
+    "id": "R103",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many apps have started using cybersecurity. This change helps people work in a more efficient way. As a result, they often experience accuracy.\\n\\nQuestion: According to the passage, one result of using cybersecurity is:",
+    "options": [
+      "more errors",
+      "more confusion",
+      "accuracy",
+      "higher prices"
+    ],
+    "correctIndex": 2,
+    "difficulty": 2,
+    "explanation": "Detail question = جواب موجود صراحة في النص."
+  },
+  {
+    "id": "R104",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many companies have started using public transport. This change helps people work in a more organized way. As a result, they often experience sustainable growth.\\n\\nQuestion: What is the main idea of the passage?",
+    "options": [
+      "Companies are adopting public transport to improve performance and outcomes.",
+      "Companies are stopping all traditional methods completely.",
+      "Public Transport is too expensive to be useful for most people.",
+      "The passage focuses only on the history of public transport."
+    ],
+    "correctIndex": 0,
+    "difficulty": 3,
+    "explanation": "Main idea = الفكرة العامة: لماذا ذُكر التوجه وما نتيجته."
+  },
+  {
+    "id": "R105",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many consumers have started using digital payments. This change helps people work in a more reduce way. As a result, they often experience lower expenses.\\n\\nQuestion: In the passage, the word 'reduce' is closest in meaning to:",
+    "options": [
+      "decrease",
+      "careless",
+      "late",
+      "empty"
+    ],
+    "correctIndex": 0,
+    "difficulty": 3,
+    "explanation": "Vocabulary in context = معنى الكلمة حسب سياق النص."
+  },
+  {
+    "id": "R106",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many doctors have started using sleep routines. This change helps people work in a more maintain way. As a result, they often experience lower stress.\\n\\nQuestion: In the passage, the word 'maintain' is closest in meaning to:",
+    "options": [
+      "dangerous",
+      "empty",
+      "keep",
+      "late"
+    ],
+    "correctIndex": 2,
+    "difficulty": 3,
+    "explanation": "Vocabulary in context = معنى الكلمة حسب سياق النص."
+  },
+  {
+    "id": "R107",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many markets have started using remote work. This change helps people work in a more focused way. As a result, they often experience lower expenses.\\n\\nQuestion: According to the passage, one result of using remote work is:",
+    "options": [
+      "more confusion",
+      "more errors",
+      "more pollution",
+      "lower expenses"
+    ],
+    "correctIndex": 3,
+    "difficulty": 2,
+    "explanation": "Detail question = جواب موجود صراحة في النص."
+  },
+  {
+    "id": "R108",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many companies have started using remote work. This change helps people work in a more organized way. As a result, they often experience faster service.\\n\\nQuestion: What is the main idea of the passage?",
+    "options": [
+      "Remote Work is too expensive to be useful for most people.",
+      "The passage focuses only on the history of remote work.",
+      "Companies are stopping all traditional methods completely.",
+      "Companies are adopting remote work to improve performance and outcomes."
+    ],
+    "correctIndex": 3,
+    "difficulty": 3,
+    "explanation": "Main idea = الفكرة العامة: لماذا ذُكر التوجه وما نتيجته."
+  },
+  {
+    "id": "R109",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many universities have started using project-based learning. This change helps people work in a more organized way. As a result, they often experience faster feedback.\\n\\nQuestion: What can be inferred from the passage?",
+    "options": [
+      "Project-Based Learning has no disadvantages at all.",
+      "People will stop learning because of project-based learning.",
+      "Many universities believe project-based learning can be useful in their daily work.",
+      "Only one country uses project-based learning."
+    ],
+    "correctIndex": 2,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج: شيء منطقي من النص حتى لو ما انذكر حرفياً."
+  },
+  {
+    "id": "R110",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many research teams have started using long-term studies. This change helps people work in a more significant way. As a result, they often experience reliable results.\\n\\nQuestion: In the passage, the word 'significant' is closest in meaning to:",
+    "options": [
+      "late",
+      "empty",
+      "important",
+      "weak"
+    ],
+    "correctIndex": 2,
+    "difficulty": 3,
+    "explanation": "Vocabulary in context = معنى الكلمة حسب سياق النص."
+  },
+  {
+    "id": "R111",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many scientists have started using peer review. This change helps people work in a more efficient way. As a result, they often experience useful innovations.\\n\\nQuestion: What can be inferred from the passage?",
+    "options": [
+      "Only one country uses peer review.",
+      "Peer Review has no disadvantages at all.",
+      "People will stop learning because of peer review.",
+      "Many scientists believe peer review can be useful in their daily work."
+    ],
+    "correctIndex": 3,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج: شيء منطقي من النص حتى لو ما انذكر حرفياً."
+  },
+  {
+    "id": "R112",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many AI tools have started using data analysis. This change helps people work in a more focused way. As a result, they often experience accessibility.\\n\\nQuestion: According to the passage, one result of using data analysis is:",
+    "options": [
+      "more errors",
+      "less time to rest",
+      "accessibility",
+      "more confusion"
+    ],
+    "correctIndex": 2,
+    "difficulty": 2,
+    "explanation": "Detail question = جواب موجود صراحة في النص."
+  },
+  {
+    "id": "R113",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many smart devices have started using automation. This change helps people work in a more maintain way. As a result, they often experience cost savings.\\n\\nQuestion: In the passage, the word 'maintain' is closest in meaning to:",
+    "options": [
+      "keep",
+      "weak",
+      "dangerous",
+      "empty"
+    ],
+    "correctIndex": 0,
+    "difficulty": 3,
+    "explanation": "Vocabulary in context = معنى الكلمة حسب سياق النص."
+  },
+  {
+    "id": "R114",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many students have started using short quizzes. This change helps people work in a more organized way. As a result, they often experience better engagement.\\n\\nQuestion: According to the passage, one result of using short quizzes is:",
+    "options": [
+      "better engagement",
+      "higher prices",
+      "more confusion",
+      "more pollution"
+    ],
+    "correctIndex": 0,
+    "difficulty": 2,
+    "explanation": "Detail question = جواب موجود صراحة في النص."
+  },
+  {
+    "id": "R115",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many students have started using project-based learning. This change helps people work in a more focused way. As a result, they often experience better engagement.\\n\\nQuestion: What is the main idea of the passage?",
+    "options": [
+      "Students are adopting project-based learning to improve performance and outcomes.",
+      "Project-Based Learning is too expensive to be useful for most people.",
+      "The passage focuses only on the history of project-based learning.",
+      "Students are stopping all traditional methods completely."
+    ],
+    "correctIndex": 0,
+    "difficulty": 3,
+    "explanation": "Main idea = الفكرة العامة: لماذا ذُكر التوجه وما نتيجته."
+  },
+  {
+    "id": "R116",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many students have started using project-based learning. This change helps people work in a more focused way. As a result, they often experience better engagement.\\n\\nQuestion: What can be inferred from the passage?",
+    "options": [
+      "Many students believe project-based learning can be useful in their daily work.",
+      "People will stop learning because of project-based learning.",
+      "Project-Based Learning has no disadvantages at all.",
+      "Only one country uses project-based learning."
+    ],
+    "correctIndex": 0,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج: شيء منطقي من النص حتى لو ما انذكر حرفياً."
+  },
+  {
+    "id": "R117",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many AI tools have started using automation. This change helps people work in a more focused way. As a result, they often experience efficiency.\\n\\nQuestion: What can be inferred from the passage?",
+    "options": [
+      "Automation has no disadvantages at all.",
+      "Only one country uses automation.",
+      "Many AI tools believe automation can be useful in their daily work.",
+      "People will stop learning because of automation."
+    ],
+    "correctIndex": 2,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج: شيء منطقي من النص حتى لو ما انذكر حرفياً."
+  },
+  {
+    "id": "R118",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many students have started using short quizzes. This change helps people work in a more efficient way. As a result, they often experience flexibility.\\n\\nQuestion: What can be inferred from the passage?",
+    "options": [
+      "People will stop learning because of short quizzes.",
+      "Short Quizzes has no disadvantages at all.",
+      "Many students believe short quizzes can be useful in their daily work.",
+      "Only one country uses short quizzes."
+    ],
+    "correctIndex": 2,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج: شيء منطقي من النص حتى لو ما انذكر حرفياً."
+  },
+  {
+    "id": "R119",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many companies have started using local products. This change helps people work in a more efficient way. As a result, they often experience convenience.\\n\\nQuestion: According to the passage, one result of using local products is:",
+    "options": [
+      "more confusion",
+      "more pollution",
+      "higher prices",
+      "convenience"
+    ],
+    "correctIndex": 3,
+    "difficulty": 2,
+    "explanation": "Detail question = جواب موجود صراحة في النص."
+  },
+  {
+    "id": "R120",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many scientists have started using long-term studies. This change helps people work in a more significant way. As a result, they often experience better understanding.\\n\\nQuestion: In the passage, the word 'significant' is closest in meaning to:",
+    "options": [
+      "weak",
+      "careless",
+      "empty",
+      "important"
+    ],
+    "correctIndex": 3,
+    "difficulty": 3,
+    "explanation": "Vocabulary in context = معنى الكلمة حسب سياق النص."
+  },
+  {
+    "id": "R121",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many teachers have started using peer feedback. This change helps people work in a more organized way. As a result, they often experience flexibility.\\n\\nQuestion: What is the main idea of the passage?",
+    "options": [
+      "Peer Feedback is too expensive to be useful for most people.",
+      "Teachers are stopping all traditional methods completely.",
+      "The passage focuses only on the history of peer feedback.",
+      "Teachers are adopting peer feedback to improve performance and outcomes."
+    ],
+    "correctIndex": 3,
+    "difficulty": 3,
+    "explanation": "Main idea = الفكرة العامة: لماذا ذُكر التوجه وما نتيجته."
+  },
+  {
+    "id": "R122",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many small businesses have started using digital payments. This change helps people work in a more rapidly way. As a result, they often experience more choices.\\n\\nQuestion: In the passage, the word 'rapidly' is closest in meaning to:",
+    "options": [
+      "empty",
+      "late",
+      "quickly",
+      "careless"
+    ],
+    "correctIndex": 2,
+    "difficulty": 3,
+    "explanation": "Vocabulary in context = معنى الكلمة حسب سياق النص."
+  },
+  {
+    "id": "R123",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many scientists have started using new methods. This change helps people work in a more focused way. As a result, they often experience reliable results.\\n\\nQuestion: What is the main idea of the passage?",
+    "options": [
+      "New Methods is too expensive to be useful for most people.",
+      "The passage focuses only on the history of new methods.",
+      "Scientists are stopping all traditional methods completely.",
+      "Scientists are adopting new methods to improve performance and outcomes."
+    ],
+    "correctIndex": 3,
+    "difficulty": 3,
+    "explanation": "Main idea = الفكرة العامة: لماذا ذُكر التوجه وما نتيجته."
+  },
+  {
+    "id": "R124",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many doctors have started using preventive care. This change helps people work in a more beneficial way. As a result, they often experience better focus.\\n\\nQuestion: In the passage, the word 'beneficial' is closest in meaning to:",
+    "options": [
+      "careless",
+      "helpful",
+      "rare",
+      "late"
+    ],
+    "correctIndex": 1,
+    "difficulty": 3,
+    "explanation": "Vocabulary in context = معنى الكلمة حسب سياق النص."
+  },
+  {
+    "id": "R125",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many AI tools have started using cloud storage. This change helps people work in a more efficient way. As a result, they often experience accuracy.\\n\\nQuestion: What can be inferred from the passage?",
+    "options": [
+      "Cloud Storage has no disadvantages at all.",
+      "People will stop learning because of cloud storage.",
+      "Only one country uses cloud storage.",
+      "Many AI tools believe cloud storage can be useful in their daily work."
+    ],
+    "correctIndex": 3,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج: شيء منطقي من النص حتى لو ما انذكر حرفياً."
+  },
+  {
+    "id": "R126",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many universities have started using online learning. This change helps people work in a more focused way. As a result, they often experience higher motivation.\\n\\nQuestion: What is the main idea of the passage?",
+    "options": [
+      "The passage focuses only on the history of online learning.",
+      "Universities are stopping all traditional methods completely.",
+      "Universities are adopting online learning to improve performance and outcomes.",
+      "Online Learning is too expensive to be useful for most people."
+    ],
+    "correctIndex": 2,
+    "difficulty": 3,
+    "explanation": "Main idea = الفكرة العامة: لماذا ذُكر التوجه وما نتيجته."
+  },
+  {
+    "id": "R127",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many AI tools have started using data analysis. This change helps people work in a more organized way. As a result, they often experience accuracy.\\n\\nQuestion: According to the passage, one result of using data analysis is:",
+    "options": [
+      "more pollution",
+      "more confusion",
+      "less time to rest",
+      "accuracy"
+    ],
+    "correctIndex": 3,
+    "difficulty": 2,
+    "explanation": "Detail question = جواب موجود صراحة في النص."
+  },
+  {
+    "id": "R128",
+    "section": "Reading",
+    "prompt": "Read the passage:\\n\\nIn recent years, many companies have started using online shopping. This change helps people work in a more focused way. As a result, they often experience more choices.\\n\\nQuestion: What is the main idea of the passage?",
+    "options": [
+      "Companies are stopping all traditional methods completely.",
+      "The passage focuses only on the history of online shopping.",
+      "Companies are adopting online shopping to improve performance and outcomes.",
+      "Online Shopping is too expensive to be useful for most people."
+    ],
+    "correctIndex": 2,
+    "difficulty": 3,
+    "explanation": "Main idea = الفكرة العامة: لماذا ذُكر التوجه وما نتيجته."
+  },
+  {
+    "id": "L001",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Caller asks about a service this week.\\nB: Representative explains steps Sure. Let's do it next week.\\n\\nQuestion: When will they do it?",
+    "options": [
+      "next week",
+      "two months ago",
+      "never",
+      "last week"
+    ],
+    "correctIndex": 0,
+    "difficulty": 2,
+    "explanation": "Detail = معلومة مباشرة (وقت/مكان/سبب) من الحوار."
+  },
+  {
+    "id": "L002",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Caller asks about a service right now.\\nB: Representative explains steps No problem. Let's do it next week.\\n\\nQuestion: What can be inferred from the dialogue?",
+    "options": [
+      "Speaker B agrees to help and suggests a specific time.",
+      "They already finished the task.",
+      "They have never met before.",
+      "Speaker B refuses to help."
+    ],
+    "correctIndex": 0,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج منطقي من الكلام."
+  },
+  {
+    "id": "L003",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Traveler asks about a gate today.\\nB: Agent gives directions Sure. Let's do it in the morning.\\n\\nQuestion: What can be inferred from the dialogue?",
+    "options": [
+      "They have never met before.",
+      "They already finished the task.",
+      "Speaker B agrees to help and suggests a specific time.",
+      "Speaker B refuses to help."
+    ],
+    "correctIndex": 2,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج منطقي من الكلام."
+  },
+  {
+    "id": "L004",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Employee asks for help today.\\nB: Colleague suggests a solution No problem. Let's do it next week.\\n\\nQuestion: What can be inferred from the dialogue?",
+    "options": [
+      "Speaker B agrees to help and suggests a specific time.",
+      "They have never met before.",
+      "Speaker B refuses to help.",
+      "They already finished the task."
+    ],
+    "correctIndex": 0,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج منطقي من الكلام."
+  },
+  {
+    "id": "L005",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Traveler asks about a gate this week.\\nB: Agent gives directions No problem. Let's do it next week.\\n\\nQuestion: What is the main purpose of the conversation?",
+    "options": [
+      "To buy a new product.",
+      "To ask for help and make a plan.",
+      "To cancel an appointment.",
+      "To complain about a mistake."
+    ],
+    "correctIndex": 1,
+    "difficulty": 2,
+    "explanation": "Purpose = الهدف العام من الحوار."
+  },
+  {
+    "id": "L006",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Employee asks for help right now.\\nB: Colleague suggests a solution Sure. Let's do it tomorrow.\\n\\nQuestion: What can be inferred from the dialogue?",
+    "options": [
+      "Speaker B refuses to help.",
+      "They already finished the task.",
+      "They have never met before.",
+      "Speaker B agrees to help and suggests a specific time."
+    ],
+    "correctIndex": 3,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج منطقي من الكلام."
+  },
+  {
+    "id": "L007",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Student asks about borrowing a book right now.\\nB: Librarian explains the due date Sure. Let's do it after class.\\n\\nQuestion: How does Speaker B feel?",
+    "options": [
+      "confused",
+      "uninterested",
+      "willing to assist",
+      "angry"
+    ],
+    "correctIndex": 2,
+    "difficulty": 3,
+    "explanation": "Attitude = نبرة المتحدث (متعاون/منزعج/محايد...)."
+  },
+  {
+    "id": "L008",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Caller asks about a service today.\\nB: Representative explains steps Of course. Let's do it before the deadline.\\n\\nQuestion: How does Speaker B feel?",
+    "options": [
+      "uninterested",
+      "angry",
+      "helpful",
+      "confused"
+    ],
+    "correctIndex": 2,
+    "difficulty": 3,
+    "explanation": "Attitude = نبرة المتحدث (متعاون/منزعج/محايد...)."
+  },
+  {
+    "id": "L009",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Customer orders a drink this week.\\nB: Cashier offers a discount No problem. Let's do it in the morning.\\n\\nQuestion: What is the main purpose of the conversation?",
+    "options": [
+      "To buy a new product.",
+      "To ask for help and make a plan.",
+      "To cancel an appointment.",
+      "To complain about a mistake."
+    ],
+    "correctIndex": 1,
+    "difficulty": 2,
+    "explanation": "Purpose = الهدف العام من الحوار."
+  },
+  {
+    "id": "L010",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Two friends discuss an exam today.\\nB: Friend suggests a study plan Sure. Let's do it in the morning.\\n\\nQuestion: When will they do it?",
+    "options": [
+      "two months ago",
+      "in the morning",
+      "last week",
+      "never"
+    ],
+    "correctIndex": 1,
+    "difficulty": 2,
+    "explanation": "Detail = معلومة مباشرة (وقت/مكان/سبب) من الحوار."
+  },
+  {
+    "id": "L011",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Customer orders a drink this week.\\nB: Cashier offers a discount Sure. Let's do it next week.\\n\\nQuestion: What is the main purpose of the conversation?",
+    "options": [
+      "To ask for help and make a plan.",
+      "To buy a new product.",
+      "To cancel an appointment.",
+      "To complain about a mistake."
+    ],
+    "correctIndex": 0,
+    "difficulty": 2,
+    "explanation": "Purpose = الهدف العام من الحوار."
+  },
+  {
+    "id": "L012",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Student asks a question this week.\\nB: Teacher clarifies a rule Sure. Let's do it in the morning.\\n\\nQuestion: What is the main purpose of the conversation?",
+    "options": [
+      "To buy a new product.",
+      "To complain about a mistake.",
+      "To ask for help and make a plan.",
+      "To cancel an appointment."
+    ],
+    "correctIndex": 2,
+    "difficulty": 2,
+    "explanation": "Purpose = الهدف العام من الحوار."
+  },
+  {
+    "id": "L013",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Employee asks for help right now.\\nB: Colleague suggests a solution No problem. Let's do it after class.\\n\\nQuestion: When will they do it?",
+    "options": [
+      "never",
+      "after class",
+      "two months ago",
+      "right away"
+    ],
+    "correctIndex": 1,
+    "difficulty": 2,
+    "explanation": "Detail = معلومة مباشرة (وقت/مكان/سبب) من الحوار."
+  },
+  {
+    "id": "L014",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Employee asks for help today.\\nB: Colleague suggests a solution No problem. Let's do it in the morning.\\n\\nQuestion: How does Speaker B feel?",
+    "options": [
+      "supportive",
+      "uninterested",
+      "angry",
+      "confused"
+    ],
+    "correctIndex": 0,
+    "difficulty": 3,
+    "explanation": "Attitude = نبرة المتحدث (متعاون/منزعج/محايد...)."
+  },
+  {
+    "id": "L015",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Student asks about borrowing a book today.\\nB: Librarian explains the due date Of course. Let's do it after class.\\n\\nQuestion: When will they do it?",
+    "options": [
+      "never",
+      "last week",
+      "after class",
+      "two months ago"
+    ],
+    "correctIndex": 2,
+    "difficulty": 2,
+    "explanation": "Detail = معلومة مباشرة (وقت/مكان/سبب) من الحوار."
+  },
+  {
+    "id": "L016",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Two friends discuss an exam right now.\\nB: Friend suggests a study plan No problem. Let's do it next week.\\n\\nQuestion: What is the main purpose of the conversation?",
+    "options": [
+      "To ask for help and make a plan.",
+      "To cancel an appointment.",
+      "To buy a new product.",
+      "To complain about a mistake."
+    ],
+    "correctIndex": 0,
+    "difficulty": 2,
+    "explanation": "Purpose = الهدف العام من الحوار."
+  },
+  {
+    "id": "L017",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Customer orders a drink right now.\\nB: Cashier offers a discount Of course. Let's do it in the morning.\\n\\nQuestion: How does Speaker B feel?",
+    "options": [
+      "helpful",
+      "uninterested",
+      "confused",
+      "angry"
+    ],
+    "correctIndex": 0,
+    "difficulty": 3,
+    "explanation": "Attitude = نبرة المتحدث (متعاون/منزعج/محايد...)."
+  },
+  {
+    "id": "L018",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Student asks about borrowing a book today.\\nB: Librarian explains the due date Sure. Let's do it tomorrow.\\n\\nQuestion: When will they do it?",
+    "options": [
+      "last week",
+      "right away",
+      "tomorrow",
+      "two months ago"
+    ],
+    "correctIndex": 2,
+    "difficulty": 2,
+    "explanation": "Detail = معلومة مباشرة (وقت/مكان/سبب) من الحوار."
+  },
+  {
+    "id": "L019",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Employee asks for help right now.\\nB: Colleague suggests a solution Of course. Let's do it tomorrow.\\n\\nQuestion: What is the main purpose of the conversation?",
+    "options": [
+      "To complain about a mistake.",
+      "To buy a new product.",
+      "To ask for help and make a plan.",
+      "To cancel an appointment."
+    ],
+    "correctIndex": 2,
+    "difficulty": 2,
+    "explanation": "Purpose = الهدف العام من الحوار."
+  },
+  {
+    "id": "L020",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Caller asks about a service this week.\\nB: Representative explains steps Of course. Let's do it after class.\\n\\nQuestion: When will they do it?",
+    "options": [
+      "after class",
+      "last week",
+      "never",
+      "two months ago"
+    ],
+    "correctIndex": 0,
+    "difficulty": 2,
+    "explanation": "Detail = معلومة مباشرة (وقت/مكان/سبب) من الحوار."
+  },
+  {
+    "id": "L021",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Two friends discuss an exam right now.\\nB: Friend suggests a study plan Of course. Let's do it before the deadline.\\n\\nQuestion: How does Speaker B feel?",
+    "options": [
+      "confused",
+      "angry",
+      "uninterested",
+      "willing to assist"
+    ],
+    "correctIndex": 3,
+    "difficulty": 3,
+    "explanation": "Attitude = نبرة المتحدث (متعاون/منزعج/محايد...)."
+  },
+  {
+    "id": "L022",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Student asks a question today.\\nB: Teacher clarifies a rule Sure. Let's do it tomorrow.\\n\\nQuestion: When will they do it?",
+    "options": [
+      "last week",
+      "tomorrow",
+      "right away",
+      "never"
+    ],
+    "correctIndex": 1,
+    "difficulty": 2,
+    "explanation": "Detail = معلومة مباشرة (وقت/مكان/سبب) من الحوار."
+  },
+  {
+    "id": "L023",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Customer orders a drink this week.\\nB: Cashier offers a discount No problem. Let's do it this afternoon.\\n\\nQuestion: When will they do it?",
+    "options": [
+      "right away",
+      "this afternoon",
+      "last week",
+      "two months ago"
+    ],
+    "correctIndex": 1,
+    "difficulty": 2,
+    "explanation": "Detail = معلومة مباشرة (وقت/مكان/سبب) من الحوار."
+  },
+  {
+    "id": "L024",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Student asks a question this week.\\nB: Teacher clarifies a rule Of course. Let's do it tomorrow.\\n\\nQuestion: What can be inferred from the dialogue?",
+    "options": [
+      "They have never met before.",
+      "They already finished the task.",
+      "Speaker B refuses to help.",
+      "Speaker B agrees to help and suggests a specific time."
+    ],
+    "correctIndex": 3,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج منطقي من الكلام."
+  },
+  {
+    "id": "L025",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Employee asks for help today.\\nB: Colleague suggests a solution Sure. Let's do it in the morning.\\n\\nQuestion: What can be inferred from the dialogue?",
+    "options": [
+      "They have never met before.",
+      "Speaker B agrees to help and suggests a specific time.",
+      "Speaker B refuses to help.",
+      "They already finished the task."
+    ],
+    "correctIndex": 1,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج منطقي من الكلام."
+  },
+  {
+    "id": "L026",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Student asks about borrowing a book right now.\\nB: Librarian explains the due date Sure. Let's do it before the deadline.\\n\\nQuestion: What is the main purpose of the conversation?",
+    "options": [
+      "To cancel an appointment.",
+      "To buy a new product.",
+      "To complain about a mistake.",
+      "To ask for help and make a plan."
+    ],
+    "correctIndex": 3,
+    "difficulty": 2,
+    "explanation": "Purpose = الهدف العام من الحوار."
+  },
+  {
+    "id": "L027",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Traveler asks about a gate this week.\\nB: Agent gives directions Sure. Let's do it in the morning.\\n\\nQuestion: When will they do it?",
+    "options": [
+      "in the morning",
+      "never",
+      "two months ago",
+      "right away"
+    ],
+    "correctIndex": 0,
+    "difficulty": 2,
+    "explanation": "Detail = معلومة مباشرة (وقت/مكان/سبب) من الحوار."
+  },
+  {
+    "id": "L028",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Traveler asks about a gate this week.\\nB: Agent gives directions No problem. Let's do it after class.\\n\\nQuestion: How does Speaker B feel?",
+    "options": [
+      "helpful",
+      "angry",
+      "confused",
+      "uninterested"
+    ],
+    "correctIndex": 0,
+    "difficulty": 3,
+    "explanation": "Attitude = نبرة المتحدث (متعاون/منزعج/محايد...)."
+  },
+  {
+    "id": "L029",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Two friends discuss an exam right now.\\nB: Friend suggests a study plan No problem. Let's do it next week.\\n\\nQuestion: How does Speaker B feel?",
+    "options": [
+      "supportive",
+      "angry",
+      "uninterested",
+      "confused"
+    ],
+    "correctIndex": 0,
+    "difficulty": 3,
+    "explanation": "Attitude = نبرة المتحدث (متعاون/منزعج/محايد...)."
+  },
+  {
+    "id": "L030",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Student asks a question today.\\nB: Teacher clarifies a rule No problem. Let's do it before the deadline.\\n\\nQuestion: What is the main purpose of the conversation?",
+    "options": [
+      "To cancel an appointment.",
+      "To ask for help and make a plan.",
+      "To buy a new product.",
+      "To complain about a mistake."
+    ],
+    "correctIndex": 1,
+    "difficulty": 2,
+    "explanation": "Purpose = الهدف العام من الحوار."
+  },
+  {
+    "id": "L031",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Customer orders a drink right now.\\nB: Cashier offers a discount Of course. Let's do it tomorrow.\\n\\nQuestion: What can be inferred from the dialogue?",
+    "options": [
+      "They have never met before.",
+      "Speaker B refuses to help.",
+      "They already finished the task.",
+      "Speaker B agrees to help and suggests a specific time."
+    ],
+    "correctIndex": 3,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج منطقي من الكلام."
+  },
+  {
+    "id": "L032",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Student asks about borrowing a book today.\\nB: Librarian explains the due date Of course. Let's do it this afternoon.\\n\\nQuestion: How does Speaker B feel?",
+    "options": [
+      "confused",
+      "uninterested",
+      "angry",
+      "helpful"
+    ],
+    "correctIndex": 3,
+    "difficulty": 3,
+    "explanation": "Attitude = نبرة المتحدث (متعاون/منزعج/محايد...)."
+  },
+  {
+    "id": "L033",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Traveler asks about a gate right now.\\nB: Agent gives directions Sure. Let's do it this afternoon.\\n\\nQuestion: How does Speaker B feel?",
+    "options": [
+      "angry",
+      "supportive",
+      "uninterested",
+      "confused"
+    ],
+    "correctIndex": 1,
+    "difficulty": 3,
+    "explanation": "Attitude = نبرة المتحدث (متعاون/منزعج/محايد...)."
+  },
+  {
+    "id": "L034",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Two friends discuss an exam this week.\\nB: Friend suggests a study plan Of course. Let's do it before the deadline.\\n\\nQuestion: What is the main purpose of the conversation?",
+    "options": [
+      "To ask for help and make a plan.",
+      "To buy a new product.",
+      "To cancel an appointment.",
+      "To complain about a mistake."
+    ],
+    "correctIndex": 0,
+    "difficulty": 2,
+    "explanation": "Purpose = الهدف العام من الحوار."
+  },
+  {
+    "id": "L035",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: A patient describes symptoms right now.\\nB: Doctor gives advice No problem. Let's do it this afternoon.\\n\\nQuestion: When will they do it?",
+    "options": [
+      "two months ago",
+      "last week",
+      "this afternoon",
+      "right away"
+    ],
+    "correctIndex": 2,
+    "difficulty": 2,
+    "explanation": "Detail = معلومة مباشرة (وقت/مكان/سبب) من الحوار."
+  },
+  {
+    "id": "L036",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Two friends discuss an exam this week.\\nB: Friend suggests a study plan Of course. Let's do it this afternoon.\\n\\nQuestion: What can be inferred from the dialogue?",
+    "options": [
+      "They have never met before.",
+      "Speaker B agrees to help and suggests a specific time.",
+      "Speaker B refuses to help.",
+      "They already finished the task."
+    ],
+    "correctIndex": 1,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج منطقي من الكلام."
+  },
+  {
+    "id": "L037",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Student asks about borrowing a book right now.\\nB: Librarian explains the due date Sure. Let's do it before the deadline.\\n\\nQuestion: What is the main purpose of the conversation?",
+    "options": [
+      "To ask for help and make a plan.",
+      "To complain about a mistake.",
+      "To buy a new product.",
+      "To cancel an appointment."
+    ],
+    "correctIndex": 0,
+    "difficulty": 2,
+    "explanation": "Purpose = الهدف العام من الحوار."
+  },
+  {
+    "id": "L038",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Traveler asks about a gate today.\\nB: Agent gives directions No problem. Let's do it next week.\\n\\nQuestion: When will they do it?",
+    "options": [
+      "last week",
+      "never",
+      "next week",
+      "two months ago"
+    ],
+    "correctIndex": 2,
+    "difficulty": 2,
+    "explanation": "Detail = معلومة مباشرة (وقت/مكان/سبب) من الحوار."
+  },
+  {
+    "id": "L039",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Customer orders a drink today.\\nB: Cashier offers a discount No problem. Let's do it after class.\\n\\nQuestion: What can be inferred from the dialogue?",
+    "options": [
+      "They already finished the task.",
+      "Speaker B refuses to help.",
+      "Speaker B agrees to help and suggests a specific time.",
+      "They have never met before."
+    ],
+    "correctIndex": 2,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج منطقي من الكلام."
+  },
+  {
+    "id": "L040",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Employee asks for help this week.\\nB: Colleague suggests a solution Of course. Let's do it before the deadline.\\n\\nQuestion: How does Speaker B feel?",
+    "options": [
+      "helpful",
+      "uninterested",
+      "angry",
+      "confused"
+    ],
+    "correctIndex": 0,
+    "difficulty": 3,
+    "explanation": "Attitude = نبرة المتحدث (متعاون/منزعج/محايد...)."
+  },
+  {
+    "id": "L041",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Student asks about borrowing a book today.\\nB: Librarian explains the due date Of course. Let's do it in the morning.\\n\\nQuestion: What is the main purpose of the conversation?",
+    "options": [
+      "To complain about a mistake.",
+      "To ask for help and make a plan.",
+      "To cancel an appointment.",
+      "To buy a new product."
+    ],
+    "correctIndex": 1,
+    "difficulty": 2,
+    "explanation": "Purpose = الهدف العام من الحوار."
+  },
+  {
+    "id": "L042",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: A patient describes symptoms this week.\\nB: Doctor gives advice Of course. Let's do it next week.\\n\\nQuestion: What is the main purpose of the conversation?",
+    "options": [
+      "To buy a new product.",
+      "To complain about a mistake.",
+      "To ask for help and make a plan.",
+      "To cancel an appointment."
+    ],
+    "correctIndex": 2,
+    "difficulty": 2,
+    "explanation": "Purpose = الهدف العام من الحوار."
+  },
+  {
+    "id": "L043",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Customer orders a drink right now.\\nB: Cashier offers a discount No problem. Let's do it in the morning.\\n\\nQuestion: What can be inferred from the dialogue?",
+    "options": [
+      "Speaker B refuses to help.",
+      "They already finished the task.",
+      "They have never met before.",
+      "Speaker B agrees to help and suggests a specific time."
+    ],
+    "correctIndex": 3,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج منطقي من الكلام."
+  },
+  {
+    "id": "L044",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Caller asks about a service this week.\\nB: Representative explains steps Sure. Let's do it next week.\\n\\nQuestion: What can be inferred from the dialogue?",
+    "options": [
+      "They already finished the task.",
+      "Speaker B agrees to help and suggests a specific time.",
+      "They have never met before.",
+      "Speaker B refuses to help."
+    ],
+    "correctIndex": 1,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج منطقي من الكلام."
+  },
+  {
+    "id": "L045",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Caller asks about a service today.\\nB: Representative explains steps Sure. Let's do it before the deadline.\\n\\nQuestion: When will they do it?",
+    "options": [
+      "last week",
+      "never",
+      "before the deadline",
+      "right away"
+    ],
+    "correctIndex": 2,
+    "difficulty": 2,
+    "explanation": "Detail = معلومة مباشرة (وقت/مكان/سبب) من الحوار."
+  },
+  {
+    "id": "L046",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Two friends discuss an exam today.\\nB: Friend suggests a study plan Sure. Let's do it this afternoon.\\n\\nQuestion: How does Speaker B feel?",
+    "options": [
+      "angry",
+      "uninterested",
+      "confused",
+      "willing to assist"
+    ],
+    "correctIndex": 3,
+    "difficulty": 3,
+    "explanation": "Attitude = نبرة المتحدث (متعاون/منزعج/محايد...)."
+  },
+  {
+    "id": "L047",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Caller asks about a service right now.\\nB: Representative explains steps Of course. Let's do it next week.\\n\\nQuestion: How does Speaker B feel?",
+    "options": [
+      "uninterested",
+      "willing to assist",
+      "angry",
+      "confused"
+    ],
+    "correctIndex": 1,
+    "difficulty": 3,
+    "explanation": "Attitude = نبرة المتحدث (متعاون/منزعج/محايد...)."
+  },
+  {
+    "id": "L048",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Employee asks for help today.\\nB: Colleague suggests a solution No problem. Let's do it in the morning.\\n\\nQuestion: When will they do it?",
+    "options": [
+      "last week",
+      "in the morning",
+      "right away",
+      "two months ago"
+    ],
+    "correctIndex": 1,
+    "difficulty": 2,
+    "explanation": "Detail = معلومة مباشرة (وقت/مكان/سبب) من الحوار."
+  },
+  {
+    "id": "L049",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Traveler asks about a gate right now.\\nB: Agent gives directions Sure. Let's do it in the morning.\\n\\nQuestion: How does Speaker B feel?",
+    "options": [
+      "confused",
+      "helpful",
+      "angry",
+      "uninterested"
+    ],
+    "correctIndex": 1,
+    "difficulty": 3,
+    "explanation": "Attitude = نبرة المتحدث (متعاون/منزعج/محايد...)."
+  },
+  {
+    "id": "L050",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Student asks about borrowing a book today.\\nB: Librarian explains the due date Of course. Let's do it before the deadline.\\n\\nQuestion: What is the main purpose of the conversation?",
+    "options": [
+      "To ask for help and make a plan.",
+      "To buy a new product.",
+      "To complain about a mistake.",
+      "To cancel an appointment."
+    ],
+    "correctIndex": 0,
+    "difficulty": 2,
+    "explanation": "Purpose = الهدف العام من الحوار."
+  },
+  {
+    "id": "L051",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Two friends discuss an exam this week.\\nB: Friend suggests a study plan Sure. Let's do it after class.\\n\\nQuestion: What can be inferred from the dialogue?",
+    "options": [
+      "Speaker B agrees to help and suggests a specific time.",
+      "Speaker B refuses to help.",
+      "They have never met before.",
+      "They already finished the task."
+    ],
+    "correctIndex": 0,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج منطقي من الكلام."
+  },
+  {
+    "id": "L052",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Traveler asks about a gate this week.\\nB: Agent gives directions Of course. Let's do it tomorrow.\\n\\nQuestion: When will they do it?",
+    "options": [
+      "tomorrow",
+      "two months ago",
+      "never",
+      "right away"
+    ],
+    "correctIndex": 0,
+    "difficulty": 2,
+    "explanation": "Detail = معلومة مباشرة (وقت/مكان/سبب) من الحوار."
+  },
+  {
+    "id": "L053",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Caller asks about a service right now.\\nB: Representative explains steps Sure. Let's do it tomorrow.\\n\\nQuestion: When will they do it?",
+    "options": [
+      "tomorrow",
+      "two months ago",
+      "right away",
+      "last week"
+    ],
+    "correctIndex": 0,
+    "difficulty": 2,
+    "explanation": "Detail = معلومة مباشرة (وقت/مكان/سبب) من الحوار."
+  },
+  {
+    "id": "L054",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Student asks a question today.\\nB: Teacher clarifies a rule No problem. Let's do it tomorrow.\\n\\nQuestion: When will they do it?",
+    "options": [
+      "last week",
+      "tomorrow",
+      "never",
+      "right away"
+    ],
+    "correctIndex": 1,
+    "difficulty": 2,
+    "explanation": "Detail = معلومة مباشرة (وقت/مكان/سبب) من الحوار."
+  },
+  {
+    "id": "L055",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Traveler asks about a gate this week.\\nB: Agent gives directions Of course. Let's do it in the morning.\\n\\nQuestion: What is the main purpose of the conversation?",
+    "options": [
+      "To complain about a mistake.",
+      "To cancel an appointment.",
+      "To ask for help and make a plan.",
+      "To buy a new product."
+    ],
+    "correctIndex": 2,
+    "difficulty": 2,
+    "explanation": "Purpose = الهدف العام من الحوار."
+  },
+  {
+    "id": "L056",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Student asks about borrowing a book this week.\\nB: Librarian explains the due date Of course. Let's do it tomorrow.\\n\\nQuestion: What is the main purpose of the conversation?",
+    "options": [
+      "To ask for help and make a plan.",
+      "To complain about a mistake.",
+      "To cancel an appointment.",
+      "To buy a new product."
+    ],
+    "correctIndex": 0,
+    "difficulty": 2,
+    "explanation": "Purpose = الهدف العام من الحوار."
+  },
+  {
+    "id": "L057",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Employee asks for help this week.\\nB: Colleague suggests a solution No problem. Let's do it next week.\\n\\nQuestion: What can be inferred from the dialogue?",
+    "options": [
+      "They already finished the task.",
+      "Speaker B refuses to help.",
+      "Speaker B agrees to help and suggests a specific time.",
+      "They have never met before."
+    ],
+    "correctIndex": 2,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج منطقي من الكلام."
+  },
+  {
+    "id": "L058",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Customer orders a drink right now.\\nB: Cashier offers a discount No problem. Let's do it next week.\\n\\nQuestion: When will they do it?",
+    "options": [
+      "next week",
+      "two months ago",
+      "right away",
+      "never"
+    ],
+    "correctIndex": 0,
+    "difficulty": 2,
+    "explanation": "Detail = معلومة مباشرة (وقت/مكان/سبب) من الحوار."
+  },
+  {
+    "id": "L059",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Caller asks about a service this week.\\nB: Representative explains steps No problem. Let's do it this afternoon.\\n\\nQuestion: What can be inferred from the dialogue?",
+    "options": [
+      "Speaker B refuses to help.",
+      "Speaker B agrees to help and suggests a specific time.",
+      "They have never met before.",
+      "They already finished the task."
+    ],
+    "correctIndex": 1,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج منطقي من الكلام."
+  },
+  {
+    "id": "L060",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Two friends discuss an exam this week.\\nB: Friend suggests a study plan Of course. Let's do it before the deadline.\\n\\nQuestion: How does Speaker B feel?",
+    "options": [
+      "confused",
+      "angry",
+      "uninterested",
+      "helpful"
+    ],
+    "correctIndex": 3,
+    "difficulty": 3,
+    "explanation": "Attitude = نبرة المتحدث (متعاون/منزعج/محايد...)."
+  },
+  {
+    "id": "L061",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: A patient describes symptoms this week.\\nB: Doctor gives advice No problem. Let's do it next week.\\n\\nQuestion: What can be inferred from the dialogue?",
+    "options": [
+      "Speaker B agrees to help and suggests a specific time.",
+      "Speaker B refuses to help.",
+      "They already finished the task.",
+      "They have never met before."
+    ],
+    "correctIndex": 0,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج منطقي من الكلام."
+  },
+  {
+    "id": "L062",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Employee asks for help this week.\\nB: Colleague suggests a solution No problem. Let's do it in the morning.\\n\\nQuestion: How does Speaker B feel?",
+    "options": [
+      "uninterested",
+      "confused",
+      "supportive",
+      "angry"
+    ],
+    "correctIndex": 2,
+    "difficulty": 3,
+    "explanation": "Attitude = نبرة المتحدث (متعاون/منزعج/محايد...)."
+  },
+  {
+    "id": "L063",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Two friends discuss an exam today.\\nB: Friend suggests a study plan No problem. Let's do it before the deadline.\\n\\nQuestion: What can be inferred from the dialogue?",
+    "options": [
+      "Speaker B refuses to help.",
+      "They have never met before.",
+      "They already finished the task.",
+      "Speaker B agrees to help and suggests a specific time."
+    ],
+    "correctIndex": 3,
+    "difficulty": 4,
+    "explanation": "Inference = استنتاج منطقي من الكلام."
+  },
+  {
+    "id": "L064",
+    "section": "Listening",
+    "prompt": "You hear a short dialogue.\\n\\nA: Student asks a question today.\\nB: Teacher clarifies a rule Sure. Let's do it this afternoon.\\n\\nQuestion: How does Speaker B feel?",
+    "options": [
+      "confused",
+      "angry",
+      "uninterested",
+      "willing to assist"
+    ],
+    "correctIndex": 3,
+    "difficulty": 3,
+    "explanation": "Attitude = نبرة المتحدث (متعاون/منزعج/محايد...)."
+  }
+]
