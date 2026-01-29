@@ -276,3 +276,54 @@
   });
 
 })();
+/* =========================
+   Telegram: Unified opener
+   ========================= */
+(function () {
+  function getTelegramBaseUrl() {
+    // Prefer full URL (works in any browser)
+    const url = window?.SITE_DATA?.brand?.telegramUrl;
+    if (url && typeof url === "string" && url.includes("t.me/")) return url.trim();
+
+    // Fallback to username if URL not set
+    const username = window?.SITE_DATA?.brand?.telegramUsername;
+    if (username && typeof username === "string") {
+      return `https://t.me/${username.replace("@", "").trim()}`;
+    }
+
+    // Last fallback (change if needed)
+    return "https://t.me/Ayed_Academy_2026";
+  }
+
+  window.openTelegramChat = function (messageText) {
+    const base = getTelegramBaseUrl();
+    const msg = (messageText || "").trim();
+
+    // Open chat directly (no @, no tg://)
+    const finalUrl = msg ? `${base}?text=${encodeURIComponent(msg)}` : base;
+
+    // Open in new tab
+    window.open(finalUrl, "_blank", "noopener,noreferrer");
+  };
+
+  // Optional: automatically wire any element that has data-tg-chat
+  document.addEventListener("click", function (e) {
+    const el = e.target.closest("[data-tg-chat]");
+    if (!el) return;
+
+    e.preventDefault();
+    const msg = el.getAttribute("data-tg-message") || "";
+    window.openTelegramChat(msg);
+  });
+
+  // Optional: auto-set href for anchors that have data-tg-href
+  document.addEventListener("DOMContentLoaded", function () {
+    const base = getTelegramBaseUrl();
+
+    document.querySelectorAll("a[data-tg-href]").forEach((a) => {
+      a.setAttribute("href", base);
+      a.setAttribute("target", "_blank");
+      a.setAttribute("rel", "noopener noreferrer");
+    });
+  });
+})();
