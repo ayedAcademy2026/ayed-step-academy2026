@@ -1,0 +1,527 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="theme-color" content="#070a12"/>
+  <meta name="description" content="التسجيل في دورة STEP المكثفة 2026: خصم 7 أيام + عداد مقاعد + نموذج اشتراك + بيانات الدفع الرسمية."/>
+  <title>التسجيل والاشتراك | أكاديمية عايد</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700;800;900&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="assets/styles.css?v=202601290327">
+  <link rel="manifest" href="manifest.json">
+</head>
+<body class="page-register">
+
+  <div class="install-banner" role="region" aria-label="تثبيت الموقع كتطبيق">
+    <div class="txt">
+      <div class="i">✨</div>
+      <div class="t">
+        <h4 style="margin:0">ثبّت الموقع كتطبيق</h4>
+        <p style="margin:3px 0 0">تثبيت سريع — يفتح لك الموقع بواجهة تطبيق + وصول أسرع.</p>
+      </div>
+    </div>
+    <div class="actions">
+      <button id="installBtn" class="btn small primary">تثبيت</button>
+      <button id="installClose" class="btn small ghost">لاحقاً</button>
+    </div>
+  </div>
+
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="index.html" aria-label="العودة للرئيسية">
+        <div class="logo"><svg viewBox="0 0 24 24" fill="none" aria-hidden="true">
+  <path d="M12 2.5c3.6 0 6.5 2.9 6.5 6.5 0 4.9-6.5 12.5-6.5 12.5S5.5 13.9 5.5 9c0-3.6 2.9-6.5 6.5-6.5Z" stroke="rgba(255,255,255,.92)" stroke-width="1.6"/>
+  <path d="M9.2 9.4 11 11.2 14.8 7.4" stroke="rgba(255,255,255,.92)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></div>
+        <div class="titles">
+          <div class="academy">أكاديمية عايد</div>
+          <div class="course">دورة STEP المكثفة 2026</div>
+        </div>
+      </a>
+
+      <nav class="nav" aria-label="التنقل الرئيسي">
+        <a href="index.html">الرئيسية</a>
+        <a href="course-content.html">محتوى الدورة</a>
+        <a href="step-guide.html">دليل STEP</a>
+        <a href="level-test.html">اختبار المستوى</a>
+        <a href="register.html">التسجيل</a>
+        <a href="testimonials.html">آراء الطلاب</a>
+        <a href="faq.html">الأسئلة الشائعة</a>
+        <a href="support.html">الدعم</a>
+      </nav>
+
+      <div class="header-cta">
+        <button class="icon-btn menu-btn" data-open-drawer aria-label="فتح القائمة"><svg viewBox="0 0 24 24" fill="none" aria-hidden="true">
+      <path d="M4 7h16M4 12h16M4 17h16" stroke="rgba(255,255,255,.9)" stroke-width="2" stroke-linecap="round"/>
+    </svg></button>
+        <a class="btn small primary" href="level-test.html">اختبار المستوى</a>
+      </div>
+    </div>
+  </header>
+
+  <div class="drawer-backdrop"></div>
+  <aside class="drawer" aria-label="قائمة الجوال">
+    <header>
+      <div style="display:flex; align-items:center; gap:10px">
+        <div class="logo" style="width:38px;height:38px;border-radius:16px;display:grid;place-items:center"><svg viewBox="0 0 24 24" fill="none" aria-hidden="true">
+  <path d="M12 2.5c3.6 0 6.5 2.9 6.5 6.5 0 4.9-6.5 12.5-6.5 12.5S5.5 13.9 5.5 9c0-3.6 2.9-6.5 6.5-6.5Z" stroke="rgba(255,255,255,.92)" stroke-width="1.6"/>
+  <path d="M9.2 9.4 11 11.2 14.8 7.4" stroke="rgba(255,255,255,.92)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></div>
+        <div style="line-height:1.1">
+          <div style="font-weight:900">أكاديمية عايد</div>
+          <div style="color:var(--muted); font-size:12px; font-weight:700">STEP المكثفة 2026</div>
+        </div>
+      </div>
+      <button class="icon-btn" data-close-drawer aria-label="إغلاق القائمة"><svg viewBox="0 0 24 24" fill="none" aria-hidden="true">
+      <path d="M6 6l12 12M18 6 6 18" stroke="rgba(255,255,255,.9)" stroke-width="2" stroke-linecap="round"/>
+    </svg></button>
+    </header>
+    <nav>
+      <a href="index.html">الرئيسية <small>نظرة سريعة + CTA</small></a>
+      <a href="course-content.html">محتوى الدورة <small>الفهرس + القنوات</small></a>
+      <a href="step-guide.html">دليل STEP <small>شرح الاختبار + نصائح</small></a>
+      <a href="level-test.html">اختبار المستوى <small>50 سؤال + خطة فورية</small></a>
+      <a href="results.html">النتائج <small>تظهر بعد الاختبار</small></a>
+      <a href="register.html">التسجيل <small>خصم + نموذج + دفع</small></a>
+      <a href="testimonials.html">آراء الطلاب <small>تقييمات + قصص نجاح</small></a>
+      <a href="faq.html">الأسئلة الشائعة <small>كل شيء واضح</small></a>
+      <a href="support.html">الدعم <small>نموذج استفسار + بلاغات</small></a>
+    </nav>
+  </aside>
+
+  <main class="container">
+    <section class="hero">
+      <div class="hero-grid">
+        <div class="hero-card">
+          <div class="inner">
+            <div class="kicker"><span class="dot"></span>خصم 7 أيام + تسجيل مرتب</div>
+            <h1>التسجيل والاشتراك</h1>
+            <p class="lead">
+              خلّ التسجيل سهل وواضح. بعد ما تخلص اختبار تحديد المستوى، هذي الصفحة تتفتح لك بالكامل:
+              <b>سعر العرض</b> + <b>عداد الخصم</b> + <b>بيانات الدفع</b> + <b>نموذج طلب الاشتراك</b>.
+            </p>
+
+            <div class="grid-2" style="margin-top:14px">
+              <div class="card glass" style="padding:16px">
+                <div style="display:flex; align-items:center; justify-content:space-between; gap:10px; flex-wrap:wrap">
+                  <span class="badge" id="discountBadge">عرض خاص</span>
+                  <span class="pill">ينتهي: <b id="discountTimer">—</b></span>
+                </div>
+                <div class="sep"></div>
+                <div style="display:flex; align-items:flex-end; justify-content:space-between; gap:10px; flex-wrap:wrap">
+                  <div>
+                    <div style="color:var(--muted); font-weight:800; font-size:12px">السعر الحالي</div>
+                    <div style="font-size:34px; font-weight:900" id="priceNow">—</div>
+                    <div id="priceOld" style="color:var(--muted); text-decoration: line-through; font-weight:800">—</div>
+                  </div>
+                  <div class="card" style="padding:12px 12px">
+                    <div style="color:var(--muted); font-weight:800; font-size:12px">تاريخ انتهاء العرض</div>
+                    <div style="font-weight:900" id="discountEnds">—</div>
+                  </div>
+                </div>
+                <p class="hint" style="margin-top:10px">
+                  *بعد انتهاء العداد يرجع السعر الرسمي تلقائياً — بدون أي تدخل منك.
+                </p>
+              </div>
+
+              <div class="card glass" style="padding:16px">
+                <div style="display:flex; align-items:center; justify-content:space-between; gap:10px; flex-wrap:wrap">
+                  <span class="badge">المقاعد المتبقية</span>
+                  <span class="pill">التحديث القادم بعد: <b id="seatsNextTick">—</b></span>
+                </div>
+                <div class="sep"></div>
+                <div style="display:flex; align-items:flex-end; justify-content:space-between; gap:10px; flex-wrap:wrap">
+                  <div>
+                    <div style="color:var(--muted); font-weight:800; font-size:12px">متبقي الآن</div>
+                    <div style="font-size:34px; font-weight:900"><span id="seatsCount">—</span> مقعد</div>
+                  </div>
+                  <div class="card" style="padding:12px 12px">
+                    <div style="color:var(--muted); font-weight:800; font-size:12px">أولوية القبول</div>
+                    <div style="font-weight:900">الأسبقية في الدفع + إرسال الإيصال</div>
+                  </div>
+                </div>
+                <p class="hint" style="margin-top:10px" id="seatsNote">—</p>
+              </div>
+            </div>
+
+            <div class="sep"></div>
+
+            <div class="inline-actions">
+              <a class="btn primary" href="#registerForm">ابدأ التسجيل الآن</a>
+              <a class="btn outline" href="course-content.html">شوف محتوى الدورة</a>
+              <a class="btn ghost" href="faq.html">الأسئلة الشائعة</a>
+            </div>
+
+            <div class="sep"></div>
+
+            <div class="card glass" style="padding:16px">
+              <b>تطمين + شفافية</b>
+              <p style="margin:8px 0 0; color:var(--muted); line-height:1.95">
+                المنصة مبنية لتخدم الطالب: اختبار → خطة → تدريب → تسجيل.
+                <br>
+                <span id="safetyNote"></span>
+              </p>
+            </div>
+
+          </div>
+        </div>
+
+        <div class="hero-side">
+          <div class="inner">
+            <h3>مميزات الدورة (مختصر)</h3>
+            <p class="mini">
+              تصميمنا للمحتوى والخطط مبني كأول منصة تجمع: أحدث نمط أسئلة + خطط + تنظيم.
+            </p>
+            <div class="list">
+              <div class="li"><span class="badge">⭐</span><div><b>محاكاة حديثة</b><div style="color:var(--muted); font-size:12.5px; margin-top:2px; line-height:1.7">أسئلة محاكاة مبنية على نمط النماذج الحديثة حتى نموذج 51.</div></div></div>
+              <div class="li"><span class="badge">🗓️</span><div><b>خطط مفصلة</b><div style="color:var(--muted); font-size:12.5px; margin-top:2px; line-height:1.7">يوم / 3 أيام / أسبوع / شهر — حسب وقتك.</div></div></div>
+              <div class="li"><span class="badge">🧠</span><div><b>تحليل ذكي</b><div style="color:var(--muted); font-size:12.5px; margin-top:2px; line-height:1.7">يعرف أضعف قسم عندك ويركز عليه.</div></div></div>
+              <div class="li"><span class="badge">🛡️</span><div><b>حماية الملكية</b><div style="color:var(--muted); font-size:12.5px; margin-top:2px; line-height:1.7">تعهدات صارمة ضد مشاركة المحتوى للحفاظ على حقوقك وحقوق المنصة.</div></div></div>
+            </div>
+
+            <div class="sep"></div>
+
+            <div class="card" style="padding:14px">
+              <b>دعاء 💛</b>
+              <p style="margin:8px 0 0; color:var(--muted); line-height:1.9">
+                اللهم اجعل هذا الاشتراك سببًا في رفعة الطالب، وبارك له في علمه ووقته ودرجته.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="title">
+        <h2>بيانات الدفع الرسمية</h2>
+        <p>انسخها بضغطة — وانتبه من الحسابات المنتحلة</p>
+      </div>
+
+      <div id="paymentCard" class="card glass">
+        <div class="grid-2">
+          <div>
+            <div class="field">
+              <label>البنك</label>
+              <div style="display:flex; gap:10px; align-items:center">
+                <input type="text" value="بنك الإنماء" readonly>
+                <button class="btn small outline" type="button" data-copy="bankName">نسخ</button>
+              </div>
+            </div>
+
+            <div class="field" style="margin-top:12px">
+              <label>رقم الحساب</label>
+              <div style="display:flex; gap:10px; align-items:center">
+                <input type="text" value="68206067557000" readonly>
+                <button class="btn small outline" type="button" data-copy="accountNumber">نسخ</button>
+              </div>
+            </div>
+
+            <div class="field" style="margin-top:12px">
+              <label>الآيبان</label>
+              <div style="display:flex; gap:10px; align-items:center">
+                <input type="text" value="SA4905000068206067557000" readonly>
+                <button class="btn small outline" type="button" data-copy="iban">نسخ</button>
+              </div>
+            </div>
+          </div>
+
+          <div>
+            <div class="field">
+              <label>اسم المستفيد</label>
+              <div style="display:flex; gap:10px; align-items:center">
+                <input type="text" value="مؤسسة كريتيفا جلوبال لتقنية المعلومات" readonly>
+                <button class="btn small outline" type="button" data-copy="beneficiary">نسخ</button>
+              </div>
+              <div class="hint">
+                اقتراح لوصف التحويل: <b>دورة STEP المكثفة 2026 - اسم الطالب</b>
+              </div>
+            </div>
+
+            <div class="sep"></div>
+
+            <div class="card" style="padding:14px">
+              <b>تنبيه ضد النصب</b>
+              <p style="margin:8px 0 0; color:var(--muted); line-height:1.9">
+                التحويل يكون فقط على البيانات أعلاه. أي حساب يرسل لك “بيانات بديلة” = تجاهله وبلّغ عنه.
+              </p>
+              <div class="inline-actions" style="margin-top:10px">
+                <a class="btn small ghost" href="support.html">صفحة الدعم + البلاغات</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="title">
+        <h2>نموذج طلب الاشتراك</h2>
+        <p>لا يطلعك من الصفحة — كل السياسات بنوافذ منبثقة</p>
+      </div>
+
+      <div id="lockOverlay" class="card glass" style="padding:16px">
+        <b>الصفحة مقفلة مؤقتًا 🔒</b>
+        <p style="margin:8px 0 0; color:var(--muted); line-height:1.9">
+          لحماية الطلاب من التسجيل العشوائي، لازم تبدأ باختبار تحديد المستوى أولاً (50 سؤال).
+          بعدها تتفتح لك صفحة التسجيل كاملة مع الخطة.
+        </p>
+        <div class="sep"></div>
+        <a class="btn primary" href="level-test.html">ابدأ اختبار تحديد المستوى</a>
+      </div>
+
+      <div data-locked class="card glass">
+        <form id="registerForm" class="form">
+          <div class="form-grid">
+            <div class="field">
+              <label for="studentName">اسم الطالب (إلزامي)</label>
+              <input id="studentName" type="text" placeholder="اسمك الثلاثي أو اسمك المعروف" required>
+            </div>
+
+            <div class="field">
+              <label for="studentRegion">المنطقة</label>
+              <select id="studentRegion">
+                <option value="">—</option>
+                <option>الرياض</option><option>مكة</option><option>المدينة</option><option>الشرقية</option><option>القصيم</option>
+                <option>حائل</option><option>عسير</option><option>جازان</option><option>تبوك</option><option>نجران</option><option>الجوف</option><option>الباحة</option>
+                <option>خارج المملكة</option>
+              </select>
+            </div>
+
+            <div class="field">
+              <label for="contactType">وسيلة التواصل</label>
+              <select id="contactType">
+                <option value="واتساب">واتساب</option>
+                <option value="تيليجرام" selected>تيليجرام</option>
+                <option value="إيميل">إيميل</option>
+              </select>
+            </div>
+
+            <div class="field">
+              <label for="contactValue">رقم/يوزر التواصل</label>
+              <input id="contactValue" type="text" placeholder="مثال: 05xxxxxxxx أو @username">
+            </div>
+
+            <div class="field">
+              <label for="examDate">موعد اختبارك (إن وجد)</label>
+              <input id="examDate" type="date">
+              <div class="hint">إذا ما حجزت، عادي… اكتبها لاحقًا. الخطة بتوجّهك.</div>
+            </div>
+
+            <div class="field">
+              <label for="receipt">إرفاق الإيصال (إلزامي)</label>
+              <input id="receipt" type="file" accept="image/*,.pdf" required>
+              <div class="hint">لن يتم رفع الملف تلقائيًا (موقع ثابت) — بعد الإرسال تفتح لك رسالة تيليجرام وترفق الإيصال داخل المحادثة.</div>
+            </div>
+          </div>
+
+          <div class="field">
+            <label for="notes">ملاحظات (اختياري)</label>
+            <textarea id="notes" placeholder="أي معلومة تساعدنا (هدفك، مستواك، اختبار قريب جدًا… إلخ)"></textarea>
+          </div>
+
+          <div id="missingReceiptBox" class="card danger hidden" style="padding:14px">
+            <b>تنبيه: ما أرفقت الإيصال</b>
+            <p style="margin:8px 0 0; color:var(--muted); line-height:1.85">
+              لازم تختار ملف الإيصال قبل إرسال الطلب. إذا تحتاج بيانات الدفع اضغط الزر تحت.
+            </p>
+            <div class="inline-actions" style="margin-top:10px">
+              <button id="btnGoPay" class="btn small outline" type="button">اذهب لبيانات الدفع</button>
+            </div>
+          </div>
+
+          <div class="sep"></div>
+
+          <div class="checks">
+            <div class="check">
+              <input id="agree1" type="checkbox" required>
+              <p>
+                أتعهد أني لن أشارك محتوى الدورة (ملفات/نماذج/روابط/مقاطع) مع أي شخص خارج اشتراكي،
+                وأعلم أن ذلك يضر الطلاب ويعرّض الحساب للإيقاف بدون استرجاع.
+                <button type="button" class="btn link" data-open-modal="terms">اقرأ الشروط</button>
+              </p>
+            </div>
+
+            <div class="check">
+              <input id="agree2" type="checkbox" required>
+              <p>
+                أوافق على سياسة الخصوصية، وأتفهم أن بياناتي تُستخدم فقط لخدمة الاشتراك والدعم.
+                <button type="button" class="btn link" data-open-modal="privacy">سياسة الخصوصية</button>
+              </p>
+            </div>
+
+            <div class="check">
+              <input id="agree3" type="checkbox" required>
+              <p>
+                اطلعت على سياسة الاسترجاع وفهمت الحالات المقبولة والمدة والإجراءات.
+                <button type="button" class="btn link" data-open-modal="refund">سياسة الاسترجاع</button>
+              </p>
+            </div>
+          </div>
+
+          <div class="sep"></div>
+
+          <button class="btn primary block" type="submit">إرسال طلب الاشتراك + فتح رسالة تيليجرام</button>
+
+          <p class="hint" style="margin:10px 0 0">
+            *بعد ما تفتح لك رسالة تيليجرام: أرسلها ثم أرفق الإيصال داخل المحادثة للتأكيد النهائي.
+          </p>
+        </form>
+      </div>
+    </section>
+
+    <!-- Modals -->
+    <div class="modal-backdrop"></div>
+
+    <div id="termsModal" class="modal">
+      <div class="panel">
+        <header>
+          <h3>الشروط والأحكام (مختصر واضح)</h3>
+          <button class="btn small ghost" type="button" data-close-modal>إغلاق</button>
+        </header>
+        <div class="content">
+          <h4>1) الملكية الفكرية</h4>
+          <p>
+            كل محتوى الدورة (ملفات/نماذج/تلخيص/شروحات/خطط) ملك للأكاديمية. يمنع النسخ أو النشر أو المشاركة أو البيع أو رفعه في أي منصة.
+          </p>
+          <h4>2) مشاركة الحساب</h4>
+          <p>
+            يمنع مشاركة الحساب مع أي شخص. عند الاشتباه بالمشاركة يتم إيقاف الوصول لحماية حقوق الطلاب.
+          </p>
+          <h4>3) النزاهة والشفافية</h4>
+          <p>
+            الأسئلة داخل الموقع “محاكاة تدريبية” وليست أسئلة قياس الرسمية — هدفها تدريبك على النمط وإدارة الوقت.
+          </p>
+          <h4>4) التواصل الرسمي</h4>
+          <p>
+            التواصل الرسمي عبر الحساب: <b>@Ayed_Academy_2026</b> فقط. أي حساب آخر = غير معتمد.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div id="privacyModal" class="modal">
+      <div class="panel">
+        <header>
+          <h3>سياسة الخصوصية</h3>
+          <button class="btn small ghost" type="button" data-close-modal>إغلاق</button>
+        </header>
+        <div class="content">
+          <p>
+            نحترم خصوصيتك. المعلومات التي تكتبها (الاسم/وسيلة التواصل/ملاحظات) تُستخدم لغرض:
+            (تأكيد الاشتراك) و(الدعم الفني) و(تحسين تجربة المنصة).
+          </p>
+          <p>
+            لا نقوم ببيع بياناتك أو مشاركتها مع أي طرف ثالث غير ضروري لتقديم الخدمة.
+          </p>
+          <p>
+            قد نستخدم تخزين المتصفح (LocalStorage) فقط لحفظ تقدم الاختبار والخطة على جهازك — بدون إرسال بيانات لسيرفر خارجي.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div id="refundModal" class="modal">
+      <div class="panel">
+        <header>
+          <h3>سياسة الاسترجاع</h3>
+          <button class="btn small ghost" type="button" data-close-modal>إغلاق</button>
+        </header>
+        <div class="content">
+          <p>
+            سياسة الاسترجاع هدفها العدل للطرفين. تُقبل طلبات الاسترجاع في الحالات المحددة فقط، مثل:
+          </p>
+          <ul>
+            <li>تكرار التحويل بالخطأ مع إثبات (يُعاد الزائد فقط).</li>
+            <li>تعذر تفعيل الاشتراك بسبب خطأ تقني من طرفنا ولم يتم حلّه خلال مدة معقولة.</li>
+          </ul>
+          <p>
+            لا تُقبل الاسترجاعات بعد استخدام المحتوى بشكل ملحوظ أو مشاركة المحتوى أو محاولة التحايل.
+          </p>
+          <p>
+            لتقديم طلب استرجاع: ارسل من صفحة الدعم تفاصيل التحويل + سبب الطلب + إثباتات واضحة.
+          </p>
+        </div>
+      </div>
+    </div>
+
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div>
+        <h4>أكاديمية عايد — STEP المكثفة 2026</h4>
+        <p style="margin-top:8px">
+          هدفنا ترتيب طريقك: اختبار مستوى → خطة واضحة → تدريب محاكي → ثم تسجيل سهل.
+          <br>الله يكتب لك التوفيق والدرجة اللي تفرحك 💛
+        </p>
+        <p style="margin-top:10px">
+          الحساب الرسمي: <a href="https://t.me/Ayed_Academy_2026" target="_blank" rel="noopener">@Ayed_Academy_2026</a>
+        </p>
+      </div>
+
+      <div class="footer-links">
+        <a href="terms.html">الشروط والأحكام</a>
+        <a href="privacy.html">سياسة الخصوصية</a>
+        <a href="refund.html">سياسة الاسترجاع</a>
+        <a href="support.html">صفحة الدعم</a>
+      </div>
+    </div>
+  </footer>
+
+  
+  <div class="toast-container" aria-live="polite" aria-atomic="true"></div>
+
+  <button class="assistant-fab" aria-label="مساعد التسجيل">
+    <svg viewBox="0 0 24 24" fill="none" aria-hidden="true">
+      <path d="M7 18l-3 3V7a3 3 0 0 1 3-3h10a3 3 0 0 1 3 3v7a3 3 0 0 1-3 3H7Z" stroke="rgba(0,0,0,.9)" stroke-width="2" stroke-linejoin="round"/>
+      <path d="M8 9h8M8 12h6" stroke="rgba(0,0,0,.9)" stroke-width="2" stroke-linecap="round"/>
+    </svg>
+  </button>
+
+  <div class="assistant-panel" aria-label="مساعد التسجيل">
+    <header>
+      <div class="who">
+        <div class="avatar"><svg viewBox="0 0 24 24" fill="none" aria-hidden="true">
+      <path d="M8 9h8M8 13h6" stroke="rgba(255,255,255,.9)" stroke-width="2" stroke-linecap="round"/>
+      <path d="M12 2v3" stroke="rgba(255,255,255,.7)" stroke-width="2" stroke-linecap="round"/>
+      <path d="M7 6h10a4 4 0 0 1 4 4v5a5 5 0 0 1-5 5H8a5 5 0 0 1-5-5v-5a4 4 0 0 1 4-4Z" stroke="rgba(255,255,255,.9)" stroke-width="2" stroke-linejoin="round"/>
+    </svg></div>
+        <div>
+          <div class="name">مساعد التسجيل</div>
+          <p class="hint">يرد عليك بإجابات جاهزة + يوجهك لصفحات الموقع</p>
+        </div>
+      </div>
+      <button class="close" data-close-assistant>إغلاق</button>
+    </header>
+    <div class="body">
+      <div class="quick-actions">
+        <button class="chip" data-q="كم سعر الدورة؟">السعر والخصم</button>
+        <button class="chip" data-q="طريقة التسجيل؟">طريقة التسجيل</button>
+        <button class="chip" data-q="كيف التحويل؟">بيانات التحويل</button>
+        <button class="chip" data-q="كم سؤال اختبار المستوى؟">اختبار المستوى</button>
+        <button class="chip" data-q="سياسة الاسترجاع؟">سياسة الاسترجاع</button>
+        <button class="chip" data-q="عندي مشكلة / دعم">الدعم</button>
+      </div>
+
+      <div class="chat" role="log" aria-live="polite"></div>
+
+      <div class="composer">
+        <input id="assistantInput" type="text" placeholder="اكتب سؤالك هنا… (مثال: متى يبدأ الخصم؟)" />
+        <button id="assistantSend" class="btn small primary">إرسال</button>
+      </div>
+    </div>
+  </div>
+
+
+  <script src="assets/site-data.js?v=202601290327"></script>
+  <script src="assets/notifications.js?v=202601290327"></script>
+  <script src="assets/plans.js?v=202601290327"></script>
+  <script src="assets/app.js?v=202601290327"></script>
+  <script src="assets/register.js?v=202601290327"></script>
+</body>
+</html>

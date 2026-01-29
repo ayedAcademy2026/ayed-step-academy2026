@@ -1,0 +1,40 @@
+{
+  "name": "أكاديمية عايد — STEP المكثفة 2026",
+  "short_name": "عايد STEP",
+  "description": "اختبار تحديد المستوى + خطة مذاكرة + دورة STEP المكثفة 2026",
+  "start_url": "index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#070a12",
+  "theme_color": "#070a12",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": [
+    {
+      "src": "assets/icons/icon-64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ]
+}
